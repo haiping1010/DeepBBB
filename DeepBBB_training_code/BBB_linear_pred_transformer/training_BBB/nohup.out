@@ -1,0 +1,5011 @@
+1xxxx
+cuda_name: cuda:1
+Learning rate:  0.0005
+Epochs:  500
+data1/processed/B3DB_regression.ptxxxxxxxxxxx
+Pre-processed data found: data1/processed/B3DB_regression.pt, loading ...
+alldata len: 1051
+Training on 1000 samples...
+78xxxxxx
+0
+Training on 1000 samples...
+Train epoch: 1 [0/1000 (0%)]	Loss: 0.612132
+Make prediction for 51 samples...
+epoch: 1
+rmse: 0.7913987727061471
+mse: 0.626312
+pearson 0.4869033368430864
+spearman 0.6226496249826591
+ci 0.7149606299212599
+1
+Training on 1000 samples...
+Train epoch: 2 [0/1000 (0%)]	Loss: 0.546125
+Make prediction for 51 samples...
+epoch: 2
+rmse: 0.7865339878569187
+mse: 0.6186357
+pearson 0.5574667172512664
+spearman 0.6126937475572513
+ci 0.7110236220472441
+2
+Training on 1000 samples...
+Train epoch: 3 [0/1000 (0%)]	Loss: 0.570994
+Make prediction for 51 samples...
+epoch: 3
+rmse: 0.7858494597432473
+mse: 0.6175594
+pearson 0.5781050150610717
+spearman 0.5959950258755446
+ci 0.7007874015748031
+3
+Training on 1000 samples...
+Train epoch: 4 [0/1000 (0%)]	Loss: 0.528396
+Make prediction for 51 samples...
+epoch: 4
+rmse: 0.7839421236658682
+mse: 0.61456525
+pearson 0.5837157253241494
+spearman 0.611893019657983
+ci 0.7078740157480315
+4
+Training on 1000 samples...
+Train epoch: 5 [0/1000 (0%)]	Loss: 0.530727
+Make prediction for 51 samples...
+epoch: 5
+rmse: 0.7757719241039835
+mse: 0.6018221
+pearson 0.617583746253298
+spearman 0.6132506700233213
+ci 0.7078740157480315
+5
+Training on 1000 samples...
+Train epoch: 6 [0/1000 (0%)]	Loss: 0.574337
+Make prediction for 51 samples...
+epoch: 6
+rmse: 0.7632504834755529
+mse: 0.5825513
+pearson 0.6198758296343432
+spearman 0.6248670704092271
+ci 0.7125984251968503
+6
+Training on 1000 samples...
+Train epoch: 7 [0/1000 (0%)]	Loss: 0.521392
+Make prediction for 51 samples...
+epoch: 7
+rmse: 0.7462854987795415
+mse: 0.55694205
+pearson 0.6392267374379321
+spearman 0.6257721501751732
+ci 0.7094488188976378
+7
+Training on 1000 samples...
+Train epoch: 8 [0/1000 (0%)]	Loss: 0.495513
+Make prediction for 51 samples...
+epoch: 8
+rmse: 0.7652286749369964
+mse: 0.5855749
+pearson 0.5722863240714732
+spearman 0.6549609726269368
+ci 0.7283464566929134
+8
+Training on 1000 samples...
+Train epoch: 9 [0/1000 (0%)]	Loss: 0.537449
+Make prediction for 51 samples...
+epoch: 9
+rmse: 0.735426332844291
+mse: 0.5408519
+pearson 0.6343203453162436
+spearman 0.6313074198823211
+ci 0.7133858267716535
+9
+Training on 1000 samples...
+Train epoch: 10 [0/1000 (0%)]	Loss: 0.508545
+Make prediction for 51 samples...
+epoch: 10
+rmse: 0.7369235436754447
+mse: 0.5430563
+pearson 0.6273096589837222
+spearman 0.6324840501989475
+ci 0.7125984251968503
+10
+Training on 1000 samples...
+Train epoch: 11 [0/1000 (0%)]	Loss: 0.512710
+Make prediction for 51 samples...
+epoch: 11
+rmse: 0.7177923290854669
+mse: 0.5152258
+pearson 0.6334319263978714
+spearman 0.647599224266381
+ci 0.7275590551181103
+11
+Training on 1000 samples...
+Train epoch: 12 [0/1000 (0%)]	Loss: 0.506863
+Make prediction for 51 samples...
+epoch: 12
+rmse: 0.6827159804644511
+mse: 0.4661011
+pearson 0.6522189029441425
+spearman 0.6320315000771682
+ci 0.7220472440944882
+12
+Training on 1000 samples...
+Train epoch: 13 [0/1000 (0%)]	Loss: 0.443535
+Make prediction for 51 samples...
+epoch: 13
+rmse: 0.6777223261660871
+mse: 0.45930755
+pearson 0.6380644218196009
+spearman 0.6302070410283094
+ci 0.7188976377952756
+13
+Training on 1000 samples...
+Train epoch: 14 [0/1000 (0%)]	Loss: 0.466931
+Make prediction for 51 samples...
+epoch: 14
+rmse: 0.6520954961729132
+mse: 0.42522854
+pearson 0.6166842425186291
+spearman 0.6349587097995267
+ci 0.7251968503937007
+14
+Training on 1000 samples...
+Train epoch: 15 [0/1000 (0%)]	Loss: 0.453192
+Make prediction for 51 samples...
+epoch: 15
+rmse: 0.6311179655623312
+mse: 0.3983099
+pearson 0.6313646719930116
+spearman 0.6056478279774268
+ci 0.710236220472441
+15
+Training on 1000 samples...
+Train epoch: 16 [0/1000 (0%)]	Loss: 0.412291
+Make prediction for 51 samples...
+epoch: 16
+rmse: 0.6372006470809854
+mse: 0.40602466
+pearson 0.604850518858844
+spearman 0.5762642869779185
+ci 0.7031496062992126
+16
+Training on 1000 samples...
+Train epoch: 17 [0/1000 (0%)]	Loss: 0.384681
+Make prediction for 51 samples...
+epoch: 17
+rmse: 0.6344746318808104
+mse: 0.40255806
+pearson 0.6176172868925606
+spearman 0.5650540820538108
+ci 0.7
+17
+Training on 1000 samples...
+Train epoch: 18 [0/1000 (0%)]	Loss: 0.439022
+Make prediction for 51 samples...
+epoch: 18
+rmse: 0.6582510729794391
+mse: 0.43329448
+pearson 0.5749880715424578
+spearman 0.5248223762276184
+ci 0.6858267716535433
+18
+Training on 1000 samples...
+Train epoch: 19 [0/1000 (0%)]	Loss: 0.411231
+Make prediction for 51 samples...
+epoch: 19
+rmse: 0.6448775777038769
+mse: 0.4158671
+pearson 0.5899468519772565
+spearman 0.5116079126716587
+ci 0.6803149606299213
+19
+Training on 1000 samples...
+Train epoch: 20 [0/1000 (0%)]	Loss: 0.362607
+Make prediction for 51 samples...
+epoch: 20
+rmse: 0.6363342387899181
+mse: 0.40492126
+pearson 0.5916524232006465
+spearman 0.491152647167228
+ci 0.6740157480314961
+20
+Training on 1000 samples...
+Train epoch: 21 [0/1000 (0%)]	Loss: 0.373236
+Make prediction for 51 samples...
+epoch: 21
+rmse: 0.6448003958345907
+mse: 0.41576755
+pearson 0.588083128747381
+spearman 0.4495531197454564
+ci 0.6559055118110236
+21
+Training on 1000 samples...
+Train epoch: 22 [0/1000 (0%)]	Loss: 0.388909
+Make prediction for 51 samples...
+epoch: 22
+rmse: 0.6562175969798073
+mse: 0.43062153
+pearson 0.5550208095592325
+spearman 0.4970698074576297
+ci 0.6740157480314961
+22
+Training on 1000 samples...
+Train epoch: 23 [0/1000 (0%)]	Loss: 0.402209
+Make prediction for 51 samples...
+epoch: 23
+rmse: 0.6499407246044981
+mse: 0.42242295
+pearson 0.5807898681057322
+spearman 0.49667375865293717
+ci 0.6740157480314961
+23
+Training on 1000 samples...
+Train epoch: 24 [0/1000 (0%)]	Loss: 0.389923
+Make prediction for 51 samples...
+epoch: 24
+rmse: 0.6573740097998825
+mse: 0.4321406
+pearson 0.5763946353905588
+spearman 0.5460346227953168
+ci 0.6897637795275591
+24
+Training on 1000 samples...
+Train epoch: 25 [0/1000 (0%)]	Loss: 0.364642
+Make prediction for 51 samples...
+epoch: 25
+rmse: 0.6410792066433922
+mse: 0.41098255
+pearson 0.6029285409670188
+spearman 0.558446850275831
+ci 0.6984251968503937
+25
+Training on 1000 samples...
+Train epoch: 26 [0/1000 (0%)]	Loss: 0.399355
+Make prediction for 51 samples...
+epoch: 26
+rmse: 0.6381948246803115
+mse: 0.40729263
+pearson 0.6085119717344537
+spearman 0.5689460131011139
+ci 0.7031496062992126
+26
+Training on 1000 samples...
+Train epoch: 27 [0/1000 (0%)]	Loss: 0.360641
+Make prediction for 51 samples...
+epoch: 27
+rmse: 0.6222855750919093
+mse: 0.38723934
+pearson 0.6122296379550822
+spearman 0.5553242544355528
+ci 0.6960629921259842
+27
+Training on 1000 samples...
+Train epoch: 28 [0/1000 (0%)]	Loss: 0.358261
+Make prediction for 51 samples...
+epoch: 28
+rmse: 0.6292938554384706
+mse: 0.39601076
+pearson 0.607928824802534
+spearman 0.5346306177443952
+ci 0.6905511811023622
+28
+Training on 1000 samples...
+Train epoch: 29 [0/1000 (0%)]	Loss: 0.325836
+Make prediction for 51 samples...
+epoch: 29
+rmse: 0.6284074641656147
+mse: 0.39489594
+pearson 0.6016365252247892
+spearman 0.5357288341625029
+ci 0.6929133858267716
+29
+Training on 1000 samples...
+Train epoch: 30 [0/1000 (0%)]	Loss: 0.359058
+Make prediction for 51 samples...
+epoch: 30
+rmse: 0.6342265730603504
+mse: 0.40224335
+pearson 0.5959964637113471
+spearman 0.539801785258518
+ci 0.6960629921259842
+30
+Training on 1000 samples...
+Train epoch: 31 [0/1000 (0%)]	Loss: 0.314413
+Make prediction for 51 samples...
+epoch: 31
+rmse: 0.630999948057242
+mse: 0.39816093
+pearson 0.5974727154266775
+spearman 0.5513745934143991
+ci 0.7047244094488189
+31
+Training on 1000 samples...
+Train epoch: 32 [0/1000 (0%)]	Loss: 0.319521
+Make prediction for 51 samples...
+epoch: 32
+rmse: 0.6284728837639106
+mse: 0.39497817
+pearson 0.6049424923484537
+spearman 0.5550527243624852
+ci 0.7070866141732284
+32
+Training on 1000 samples...
+Train epoch: 33 [0/1000 (0%)]	Loss: 0.311693
+Make prediction for 51 samples...
+epoch: 33
+rmse: 0.6211400044809753
+mse: 0.3858149
+pearson 0.6216814328588817
+spearman 0.5494863578645981
+ci 0.7031496062992126
+33
+Training on 1000 samples...
+Train epoch: 34 [0/1000 (0%)]	Loss: 0.324598
+Make prediction for 51 samples...
+epoch: 34
+rmse: 0.6155488678771264
+mse: 0.3789004
+pearson 0.6313869681321341
+spearman 0.5629270964814475
+ci 0.7110236220472441
+34
+Training on 1000 samples...
+Train epoch: 35 [0/1000 (0%)]	Loss: 0.298324
+Make prediction for 51 samples...
+epoch: 35
+rmse: 0.6366828018993249
+mse: 0.405365
+pearson 0.6349061121585697
+spearman 0.5571218499281572
+ci 0.7094488188976378
+35
+Training on 1000 samples...
+Train epoch: 36 [0/1000 (0%)]	Loss: 0.333726
+Make prediction for 51 samples...
+epoch: 36
+rmse: 0.6188711307907814
+mse: 0.38300148
+pearson 0.6306996123800366
+spearman 0.5741373495279449
+ci 0.7181102362204724
+36
+Training on 1000 samples...
+Train epoch: 37 [0/1000 (0%)]	Loss: 0.325569
+Make prediction for 51 samples...
+epoch: 37
+rmse: 0.6181364851791976
+mse: 0.3820927
+pearson 0.6239607012651609
+spearman 0.5712863482652146
+ci 0.7173228346456693
+37
+Training on 1000 samples...
+Train epoch: 38 [0/1000 (0%)]	Loss: 0.314374
+Make prediction for 51 samples...
+epoch: 38
+rmse: 0.617173037782063
+mse: 0.38090256
+pearson 0.6265495188254478
+spearman 0.5720686089413921
+ci 0.7181102362204724
+38
+Training on 1000 samples...
+Train epoch: 39 [0/1000 (0%)]	Loss: 0.323087
+Make prediction for 51 samples...
+epoch: 39
+rmse: 0.6328390374918261
+mse: 0.40048525
+pearson 0.6463021973616742
+spearman 0.5635606666519387
+ci 0.715748031496063
+39
+Training on 1000 samples...
+Train epoch: 40 [0/1000 (0%)]	Loss: 0.385787
+Make prediction for 51 samples...
+epoch: 40
+rmse: 0.6293719445223542
+mse: 0.39610904
+pearson 0.631804646679938
+spearman 0.5681766778940889
+ci 0.7149606299212599
+40
+Training on 1000 samples...
+Train epoch: 41 [0/1000 (0%)]	Loss: 0.355328
+Make prediction for 51 samples...
+epoch: 41
+rmse: 0.6014994303351009
+mse: 0.36180156
+pearson 0.6467504160087598
+spearman 0.5744993814343234
+ci 0.7188976377952756
+41
+Training on 1000 samples...
+Train epoch: 42 [0/1000 (0%)]	Loss: 0.301996
+Make prediction for 51 samples...
+epoch: 42
+rmse: 0.6097285150040537
+mse: 0.37176886
+pearson 0.6469743215627685
+spearman 0.5745123795990011
+ci 0.7204724409448819
+42
+Training on 1000 samples...
+Train epoch: 43 [0/1000 (0%)]	Loss: 0.279294
+Make prediction for 51 samples...
+epoch: 43
+rmse: 0.6143087053669796
+mse: 0.3773752
+pearson 0.6353379037134
+spearman 0.5829298118640988
+ci 0.7259842519685039
+43
+Training on 1000 samples...
+Train epoch: 44 [0/1000 (0%)]	Loss: 0.318665
+Make prediction for 51 samples...
+epoch: 44
+rmse: 0.6018957230752673
+mse: 0.36227846
+pearson 0.6500148388947091
+spearman 0.587591078118427
+ci 0.7283464566929134
+44
+Training on 1000 samples...
+Train epoch: 45 [0/1000 (0%)]	Loss: 0.305427
+Make prediction for 51 samples...
+epoch: 45
+rmse: 0.5980513270416092
+mse: 0.3576654
+pearson 0.6506816058143373
+spearman 0.594017289847695
+ci 0.7322834645669292
+45
+Training on 1000 samples...
+Train epoch: 46 [0/1000 (0%)]	Loss: 0.251711
+Make prediction for 51 samples...
+epoch: 46
+rmse: 0.6006902092457886
+mse: 0.36082873
+pearson 0.6497650348219335
+spearman 0.5894784515607322
+ci 0.7291338582677165
+46
+Training on 1000 samples...
+Train epoch: 47 [0/1000 (0%)]	Loss: 0.307607
+Make prediction for 51 samples...
+epoch: 47
+rmse: 0.6029560494846139
+mse: 0.363556
+pearson 0.6591988535669836
+spearman 0.5876363331306049
+ci 0.7275590551181103
+47
+Training on 1000 samples...
+Train epoch: 48 [0/1000 (0%)]	Loss: 0.286883
+Make prediction for 51 samples...
+epoch: 48
+rmse: 0.592925578519749
+mse: 0.35156074
+pearson 0.6610469529255294
+spearman 0.5936099947380936
+ci 0.7346456692913386
+48
+Training on 1000 samples...
+Train epoch: 49 [0/1000 (0%)]	Loss: 0.303362
+Make prediction for 51 samples...
+epoch: 49
+rmse: 0.591970814741016
+mse: 0.35042945
+pearson 0.6640389017868613
+spearman 0.600534011601319
+ci 0.7346456692913386
+49
+Training on 1000 samples...
+Train epoch: 50 [0/1000 (0%)]	Loss: 0.256144
+Make prediction for 51 samples...
+epoch: 50
+rmse: 0.5871117079758881
+mse: 0.34470016
+pearson 0.6644177666433786
+spearman 0.5975924358097526
+ci 0.7370078740157481
+50
+Training on 1000 samples...
+Train epoch: 51 [0/1000 (0%)]	Loss: 0.269515
+Make prediction for 51 samples...
+epoch: 51
+rmse: 0.5910350062690082
+mse: 0.34932238
+pearson 0.6659211224984608
+spearman 0.5995384013334042
+ci 0.7370078740157481
+51
+Training on 1000 samples...
+Train epoch: 52 [0/1000 (0%)]	Loss: 0.258470
+Make prediction for 51 samples...
+epoch: 52
+rmse: 0.5870434813536272
+mse: 0.34462005
+pearson 0.6681367436003327
+spearman 0.6131462874402244
+ci 0.7480314960629921
+52
+Training on 1000 samples...
+Train epoch: 53 [0/1000 (0%)]	Loss: 0.290694
+Make prediction for 51 samples...
+epoch: 53
+rmse: 0.5933779504516614
+mse: 0.3520974
+pearson 0.6690879717327441
+spearman 0.6153776555956847
+ci 0.7456692913385827
+53
+Training on 1000 samples...
+Train epoch: 54 [0/1000 (0%)]	Loss: 0.276041
+Make prediction for 51 samples...
+epoch: 54
+rmse: 0.5819315216852086
+mse: 0.3386443
+pearson 0.6764522847091079
+spearman 0.6273249788106621
+ci 0.7519685039370079
+54
+Training on 1000 samples...
+Train epoch: 55 [0/1000 (0%)]	Loss: 0.267076
+Make prediction for 51 samples...
+epoch: 55
+rmse: 0.5787448910432084
+mse: 0.33494565
+pearson 0.6831788361433955
+spearman 0.6280038039933312
+ci 0.7519685039370079
+55
+Training on 1000 samples...
+Train epoch: 56 [0/1000 (0%)]	Loss: 0.279544
+Make prediction for 51 samples...
+epoch: 56
+rmse: 0.5768672561539042
+mse: 0.33277583
+pearson 0.681452218826917
+spearman 0.6300855345535166
+ci 0.7559055118110236
+56
+Training on 1000 samples...
+Train epoch: 57 [0/1000 (0%)]	Loss: 0.236465
+Make prediction for 51 samples...
+epoch: 57
+rmse: 0.5783805024821238
+mse: 0.334524
+pearson 0.676816989693559
+spearman 0.6311716548457872
+ci 0.7566929133858268
+57
+Training on 1000 samples...
+Train epoch: 58 [0/1000 (0%)]	Loss: 0.234938
+Make prediction for 51 samples...
+epoch: 58
+rmse: 0.578002762114713
+mse: 0.3340872
+pearson 0.685698894502391
+spearman 0.6349134558112295
+ci 0.7606299212598425
+58
+Training on 1000 samples...
+Train epoch: 59 [0/1000 (0%)]	Loss: 0.272900
+Make prediction for 51 samples...
+epoch: 59
+rmse: 0.6048678708224926
+mse: 0.36586514
+pearson 0.6827393895632653
+spearman 0.6323482851624138
+ci 0.7503937007874015
+59
+Training on 1000 samples...
+Train epoch: 60 [0/1000 (0%)]	Loss: 0.271996
+Make prediction for 51 samples...
+epoch: 60
+rmse: 0.5776028465987435
+mse: 0.33362505
+pearson 0.6872775713871444
+spearman 0.6452007086209498
+ci 0.7622047244094489
+60
+Training on 1000 samples...
+Train epoch: 61 [0/1000 (0%)]	Loss: 0.252090
+Make prediction for 51 samples...
+epoch: 61
+rmse: 0.5765428027998545
+mse: 0.3324016
+pearson 0.693044871719504
+spearman 0.6508575851431929
+ci 0.7614173228346457
+61
+Training on 1000 samples...
+Train epoch: 62 [0/1000 (0%)]	Loss: 0.258927
+Make prediction for 51 samples...
+epoch: 62
+rmse: 0.5630851457148981
+mse: 0.31706488
+pearson 0.7011259377148586
+spearman 0.6549757912513858
+ci 0.7669291338582677
+62
+Training on 1000 samples...
+Train epoch: 63 [0/1000 (0%)]	Loss: 0.246432
+Make prediction for 51 samples...
+epoch: 63
+rmse: 0.564477939786233
+mse: 0.31863534
+pearson 0.6968781704216578
+spearman 0.6526677856303108
+ci 0.7661417322834646
+63
+Training on 1000 samples...
+Train epoch: 64 [0/1000 (0%)]	Loss: 0.232461
+Make prediction for 51 samples...
+epoch: 64
+rmse: 0.5665613422497694
+mse: 0.32099175
+pearson 0.6964243902665619
+spearman 0.6475539692542029
+ci 0.7606299212598425
+64
+Training on 1000 samples...
+Train epoch: 65 [0/1000 (0%)]	Loss: 0.236019
+Make prediction for 51 samples...
+epoch: 65
+rmse: 0.569870189391238
+mse: 0.32475203
+pearson 0.7007688371923373
+spearman 0.6463773389375765
+ci 0.7629921259842519
+65
+Training on 1000 samples...
+Train epoch: 66 [0/1000 (0%)]	Loss: 0.221061
+Make prediction for 51 samples...
+epoch: 66
+rmse: 0.5883622163170344
+mse: 0.3461701
+pearson 0.6971183806476391
+spearman 0.6440693333165013
+ci 0.752755905511811
+66
+Training on 1000 samples...
+Train epoch: 67 [0/1000 (0%)]	Loss: 0.262158
+Make prediction for 51 samples...
+epoch: 67
+rmse: 0.5718295157433078
+mse: 0.326989
+pearson 0.7072776105767051
+spearman 0.6598180775544259
+ci 0.7645669291338583
+67
+Training on 1000 samples...
+Train epoch: 68 [0/1000 (0%)]	Loss: 0.233992
+Make prediction for 51 samples...
+epoch: 68
+rmse: 0.5651874451574492
+mse: 0.31943685
+pearson 0.7111579716427234
+spearman 0.6626238883094585
+ci 0.7606299212598425
+68
+Training on 1000 samples...
+Train epoch: 69 [0/1000 (0%)]	Loss: 0.244468
+Make prediction for 51 samples...
+epoch: 69
+rmse: 0.5529849289949561
+mse: 0.30579233
+pearson 0.7154722184554911
+spearman 0.6567859917385035
+ci 0.7661417322834646
+69
+Training on 1000 samples...
+Train epoch: 70 [0/1000 (0%)]	Loss: 0.206920
+Make prediction for 51 samples...
+epoch: 70
+rmse: 0.5517129795460876
+mse: 0.3043872
+pearson 0.7135288954043896
+spearman 0.6486400895464738
+ci 0.7582677165354331
+70
+Training on 1000 samples...
+Train epoch: 71 [0/1000 (0%)]	Loss: 0.214548
+Make prediction for 51 samples...
+epoch: 71
+rmse: 0.5569472422123899
+mse: 0.31019023
+pearson 0.7095978437747547
+spearman 0.6526982732120713
+ci 0.7582677165354331
+71
+Training on 1000 samples...
+Train epoch: 72 [0/1000 (0%)]	Loss: 0.212458
+Make prediction for 51 samples...
+epoch: 72
+rmse: 0.5616815758979878
+mse: 0.3154862
+pearson 0.7222553215562716
+spearman 0.6638910286504409
+ci 0.7692913385826772
+72
+Training on 1000 samples...
+Train epoch: 73 [0/1000 (0%)]	Loss: 0.219921
+Make prediction for 51 samples...
+epoch: 73
+rmse: 0.5515099162682692
+mse: 0.3041632
+pearson 0.7298052017534614
+spearman 0.6747974865853255
+ci 0.7692913385826772
+73
+Training on 1000 samples...
+Train epoch: 74 [0/1000 (0%)]	Loss: 0.241759
+Make prediction for 51 samples...
+epoch: 74
+rmse: 0.530838189674253
+mse: 0.28178918
+pearson 0.7372886249838855
+spearman 0.6876951650560394
+ci 0.7779527559055118
+74
+Training on 1000 samples...
+Train epoch: 75 [0/1000 (0%)]	Loss: 0.174822
+Make prediction for 51 samples...
+epoch: 75
+rmse: 0.5523499139120795
+mse: 0.30509043
+pearson 0.7319551848714725
+spearman 0.6857944545445658
+ci 0.7771653543307087
+75
+Training on 1000 samples...
+Train epoch: 76 [0/1000 (0%)]	Loss: 0.208713
+Make prediction for 51 samples...
+epoch: 76
+rmse: 0.5423404159157671
+mse: 0.29413313
+pearson 0.7358154786240814
+spearman 0.6816762484363729
+ci 0.768503937007874
+76
+Training on 1000 samples...
+Train epoch: 77 [0/1000 (0%)]	Loss: 0.205292
+Make prediction for 51 samples...
+epoch: 77
+rmse: 0.5646568907319724
+mse: 0.3188374
+pearson 0.7377654557240998
+spearman 0.6925374513590795
+ci 0.778740157480315
+77
+Training on 1000 samples...
+Train epoch: 78 [0/1000 (0%)]	Loss: 0.212431
+Make prediction for 51 samples...
+epoch: 78
+rmse: 0.5338476289178253
+mse: 0.2849933
+pearson 0.7344305425418229
+spearman 0.6784631425717389
+ci 0.7740157480314961
+78
+Training on 1000 samples...
+Train epoch: 79 [0/1000 (0%)]	Loss: 0.179401
+Make prediction for 51 samples...
+epoch: 79
+rmse: 0.5349264835043821
+mse: 0.28614634
+pearson 0.735368688410784
+spearman 0.6753858017436387
+ci 0.7724409448818897
+79
+Training on 1000 samples...
+Train epoch: 80 [0/1000 (0%)]	Loss: 0.193622
+Make prediction for 51 samples...
+epoch: 80
+rmse: 0.5447606220724087
+mse: 0.29676414
+pearson 0.7438062420824861
+spearman 0.6932615315539266
+ci 0.7771653543307087
+80
+Training on 1000 samples...
+Train epoch: 81 [0/1000 (0%)]	Loss: 0.181847
+Make prediction for 51 samples...
+epoch: 81
+rmse: 0.5369814633734421
+mse: 0.2883491
+pearson 0.7457147781755781
+spearman 0.6895506205553352
+ci 0.7811023622047244
+81
+Training on 1000 samples...
+Train epoch: 82 [0/1000 (0%)]	Loss: 0.185086
+Make prediction for 51 samples...
+epoch: 82
+rmse: 0.5098701457591913
+mse: 0.25996757
+pearson 0.7606933066806261
+spearman 0.6886751939084311
+ci 0.7763779527559055
+82
+Training on 1000 samples...
+Train epoch: 83 [0/1000 (0%)]	Loss: 0.168379
+Make prediction for 51 samples...
+epoch: 83
+rmse: 0.5327692187676655
+mse: 0.28384304
+pearson 0.7578191613039629
+spearman 0.7013621787337786
+ci 0.7771653543307087
+83
+Training on 1000 samples...
+Train epoch: 84 [0/1000 (0%)]	Loss: 0.198776
+Make prediction for 51 samples...
+epoch: 84
+rmse: 0.5148221904309899
+mse: 0.2650419
+pearson 0.757084412007053
+spearman 0.6916323511155207
+ci 0.7834645669291339
+84
+Training on 1000 samples...
+Train epoch: 85 [0/1000 (0%)]	Loss: 0.178210
+Make prediction for 51 samples...
+epoch: 85
+rmse: 0.5330796151112275
+mse: 0.28417388
+pearson 0.7527191509713824
+spearman 0.6769697271698668
+ci 0.7724409448818897
+85
+Training on 1000 samples...
+Train epoch: 86 [0/1000 (0%)]	Loss: 0.168781
+Make prediction for 51 samples...
+epoch: 86
+rmse: 0.5252933341211373
+mse: 0.2759331
+pearson 0.7580700936532082
+spearman 0.7029461041600068
+ci 0.7771653543307087
+86
+Training on 1000 samples...
+Train epoch: 87 [0/1000 (0%)]	Loss: 0.163510
+Make prediction for 51 samples...
+epoch: 87
+rmse: 0.5131319929289949
+mse: 0.26330444
+pearson 0.7571770042528625
+spearman 0.6868650343765389
+ci 0.7818897637795276
+87
+Training on 1000 samples...
+Train epoch: 88 [0/1000 (0%)]	Loss: 0.159469
+Make prediction for 51 samples...
+epoch: 88
+rmse: 0.5291318178591502
+mse: 0.27998048
+pearson 0.7667347538268853
+spearman 0.6848738588914574
+ci 0.7748031496062993
+88
+Training on 1000 samples...
+Train epoch: 89 [0/1000 (0%)]	Loss: 0.163672
+Make prediction for 51 samples...
+epoch: 89
+rmse: 0.5379850151003029
+mse: 0.28942788
+pearson 0.7623330014563099
+spearman 0.7053898748176157
+ci 0.7834645669291339
+89
+Training on 1000 samples...
+Train epoch: 90 [0/1000 (0%)]	Loss: 0.157116
+Make prediction for 51 samples...
+epoch: 90
+rmse: 0.5090489812733785
+mse: 0.25913087
+pearson 0.764341157253784
+spearman 0.6843010391426937
+ci 0.778740157480315
+90
+Training on 1000 samples...
+Train epoch: 91 [0/1000 (0%)]	Loss: 0.150734
+Make prediction for 51 samples...
+epoch: 91
+rmse: 0.5091952351902321
+mse: 0.2592798
+pearson 0.7620630647712874
+spearman 0.6857944545445658
+ci 0.7818897637795276
+91
+Training on 1000 samples...
+Train epoch: 92 [0/1000 (0%)]	Loss: 0.140667
+Make prediction for 51 samples...
+epoch: 92
+rmse: 0.5836937477814131
+mse: 0.3406984
+pearson 0.7622924084396423
+spearman 0.7048761217188674
+ci 0.7874015748031497
+92
+Training on 1000 samples...
+Train epoch: 93 [0/1000 (0%)]	Loss: 0.202122
+Make prediction for 51 samples...
+epoch: 93
+rmse: 0.5191606906661226
+mse: 0.26952782
+pearson 0.7760016280701593
+spearman 0.710684711242435
+ci 0.7913385826771654
+93
+Training on 1000 samples...
+Train epoch: 94 [0/1000 (0%)]	Loss: 0.137364
+Make prediction for 51 samples...
+epoch: 94
+rmse: 0.5123184126638052
+mse: 0.26247016
+pearson 0.7673064403839304
+spearman 0.6961125973211371
+ci 0.7850393700787401
+94
+Training on 1000 samples...
+Train epoch: 95 [0/1000 (0%)]	Loss: 0.181057
+Make prediction for 51 samples...
+epoch: 95
+rmse: 0.5369219643742321
+mse: 0.2882852
+pearson 0.7517420464060534
+spearman 0.6983300929178564
+ci 0.784251968503937
+95
+Training on 1000 samples...
+Train epoch: 96 [0/1000 (0%)]	Loss: 0.126188
+Make prediction for 51 samples...
+epoch: 96
+rmse: 0.514055928011455
+mse: 0.2642535
+pearson 0.7764465295164001
+spearman 0.7207313239459386
+ci 0.7866141732283465
+96
+Training on 1000 samples...
+Train epoch: 97 [0/1000 (0%)]	Loss: 0.189009
+Make prediction for 51 samples...
+epoch: 97
+rmse: 0.5053611570109308
+mse: 0.2553899
+pearson 0.7855372452403077
+spearman 0.7271575356752069
+ci 0.794488188976378
+97
+Training on 1000 samples...
+Train epoch: 98 [0/1000 (0%)]	Loss: 0.178064
+Make prediction for 51 samples...
+epoch: 98
+rmse: 0.57128118525886
+mse: 0.3263622
+pearson 0.7626443278976607
+spearman 0.6891433254457336
+ci 0.7763779527559055
+98
+Training on 1000 samples...
+Train epoch: 99 [0/1000 (0%)]	Loss: 0.193881
+Make prediction for 51 samples...
+epoch: 99
+rmse: 0.5085970759832383
+mse: 0.258671
+pearson 0.7830653418702792
+spearman 0.7104423622794362
+ci 0.7858267716535433
+99
+Training on 1000 samples...
+Train epoch: 100 [0/1000 (0%)]	Loss: 0.186452
+Make prediction for 51 samples...
+epoch: 100
+rmse: 0.5660229931885545
+mse: 0.32038203
+pearson 0.7685164497971141
+spearman 0.6978775427960769
+ci 0.7858267716535433
+100
+Training on 1000 samples...
+Train epoch: 101 [0/1000 (0%)]	Loss: 0.162242
+Make prediction for 51 samples...
+epoch: 101
+rmse: 0.47891590737193646
+mse: 0.22936045
+pearson 0.7932622084089799
+spearman 0.73104946672251
+ci 0.7984251968503937
+101
+Training on 1000 samples...
+Train epoch: 102 [0/1000 (0%)]	Loss: 0.151383
+Make prediction for 51 samples...
+epoch: 102
+rmse: 0.4853601282235054
+mse: 0.23557445
+pearson 0.7869260356470799
+spearman 0.7244874899567081
+ci 0.794488188976378
+102
+Training on 1000 samples...
+Train epoch: 103 [0/1000 (0%)]	Loss: 0.141024
+Make prediction for 51 samples...
+epoch: 103
+rmse: 0.5126278787498132
+mse: 0.26278734
+pearson 0.7812809525503591
+spearman 0.7293750312719262
+ci 0.7937007874015748
+103
+Training on 1000 samples...
+Train epoch: 104 [0/1000 (0%)]	Loss: 0.132582
+Make prediction for 51 samples...
+epoch: 104
+rmse: 0.47788793695606513
+mse: 0.22837688
+pearson 0.7955991844751935
+spearman 0.733447982367941
+ci 0.7976377952755905
+104
+Training on 1000 samples...
+Train epoch: 105 [0/1000 (0%)]	Loss: 0.128203
+Make prediction for 51 samples...
+epoch: 105
+rmse: 0.5178402506840313
+mse: 0.26815853
+pearson 0.7825094418135682
+spearman 0.7163868427768562
+ci 0.7929133858267716
+105
+Training on 1000 samples...
+Train epoch: 106 [0/1000 (0%)]	Loss: 0.133816
+Make prediction for 51 samples...
+epoch: 106
+rmse: 0.4726192365293433
+mse: 0.22336894
+pearson 0.803906854925511
+spearman 0.7435851050958006
+ci 0.805511811023622
+106
+Training on 1000 samples...
+Train epoch: 107 [0/1000 (0%)]	Loss: 0.123809
+Make prediction for 51 samples...
+epoch: 107
+rmse: 0.4999710462054781
+mse: 0.24997105
+pearson 0.7992718472255665
+spearman 0.7432515037949845
+ci 0.8039370078740158
+107
+Training on 1000 samples...
+Train epoch: 108 [0/1000 (0%)]	Loss: 0.111274
+Make prediction for 51 samples...
+epoch: 108
+rmse: 0.4652079910240617
+mse: 0.21641847
+pearson 0.8089011898531573
+spearman 0.7526643333608245
+ci 0.8062992125984252
+108
+Training on 1000 samples...
+Train epoch: 109 [0/1000 (0%)]	Loss: 0.113195
+Make prediction for 51 samples...
+epoch: 109
+rmse: 0.4792396206535256
+mse: 0.22967061
+pearson 0.8066955364305688
+spearman 0.7508259070442715
+ci 0.8047244094488188
+109
+Training on 1000 samples...
+Train epoch: 110 [0/1000 (0%)]	Loss: 0.101354
+Make prediction for 51 samples...
+epoch: 110
+rmse: 0.4869687713356701
+mse: 0.23713858
+pearson 0.8039051210254731
+spearman 0.7537504290799599
+ci 0.8094488188976378
+110
+Training on 1000 samples...
+Train epoch: 111 [0/1000 (0%)]	Loss: 0.109694
+Make prediction for 51 samples...
+epoch: 111
+rmse: 0.47992272092684735
+mse: 0.23032582
+pearson 0.8018942980364543
+spearman 0.7468887209847904
+ci 0.805511811023622
+111
+Training on 1000 samples...
+Train epoch: 112 [0/1000 (0%)]	Loss: 0.098308
+Make prediction for 51 samples...
+epoch: 112
+rmse: 0.46303020256126365
+mse: 0.21439697
+pearson 0.8153541114124154
+spearman 0.7688826569032713
+ci 0.8173228346456692
+112
+Training on 1000 samples...
+Train epoch: 113 [0/1000 (0%)]	Loss: 0.097250
+Make prediction for 51 samples...
+epoch: 113
+rmse: 0.4461804681457091
+mse: 0.19907701
+pearson 0.8300623028749559
+spearman 0.8049056465969149
+ci 0.8283464566929134
+113
+Training on 1000 samples...
+Train epoch: 114 [0/1000 (0%)]	Loss: 0.109830
+Make prediction for 51 samples...
+epoch: 114
+rmse: 0.4936351829738139
+mse: 0.2436757
+pearson 0.8125120512426658
+spearman 0.7651996881191788
+ci 0.8102362204724409
+114
+Training on 1000 samples...
+Train epoch: 115 [0/1000 (0%)]	Loss: 0.098575
+Make prediction for 51 samples...
+epoch: 115
+rmse: 0.4591346170169617
+mse: 0.2108046
+pearson 0.8179506700636726
+spearman 0.7890485399518601
+ci 0.8244094488188977
+115
+Training on 1000 samples...
+Train epoch: 116 [0/1000 (0%)]	Loss: 0.095186
+Make prediction for 51 samples...
+epoch: 116
+rmse: 0.4697022778742707
+mse: 0.22062023
+pearson 0.812498874459491
+spearman 0.7776168742536146
+ci 0.8181102362204724
+116
+Training on 1000 samples...
+Train epoch: 117 [0/1000 (0%)]	Loss: 0.087838
+Make prediction for 51 samples...
+epoch: 117
+rmse: 0.4688363790397334
+mse: 0.21980755
+pearson 0.8080845810400128
+spearman 0.7671629664405095
+ci 0.8125984251968504
+117
+Training on 1000 samples...
+Train epoch: 118 [0/1000 (0%)]	Loss: 0.079425
+Make prediction for 51 samples...
+epoch: 118
+rmse: 0.46271959195215323
+mse: 0.21410942
+pearson 0.8189641987657021
+spearman 0.7871656818231607
+ci 0.8212598425196851
+118
+Training on 1000 samples...
+Train epoch: 119 [0/1000 (0%)]	Loss: 0.079004
+Make prediction for 51 samples...
+epoch: 119
+rmse: 0.47011114226742634
+mse: 0.22100449
+pearson 0.8198541434345361
+spearman 0.7758971837908528
+ci 0.8141732283464567
+119
+Training on 1000 samples...
+Train epoch: 120 [0/1000 (0%)]	Loss: 0.085404
+Make prediction for 51 samples...
+epoch: 120
+rmse: 0.4521454055058303
+mse: 0.20443547
+pearson 0.829615357371716
+spearman 0.8118296634601403
+ci 0.831496062992126
+120
+Training on 1000 samples...
+Train epoch: 121 [0/1000 (0%)]	Loss: 0.100378
+Make prediction for 51 samples...
+epoch: 121
+rmse: 0.47772058886570057
+mse: 0.22821696
+pearson 0.8329783866198889
+spearman 0.8068063571083884
+ci 0.8338582677165355
+121
+Training on 1000 samples...
+Train epoch: 122 [0/1000 (0%)]	Loss: 0.093999
+Make prediction for 51 samples...
+epoch: 122
+rmse: 0.43927423862870874
+mse: 0.19296186
+pearson 0.8359771142036032
+spearman 0.8172602649214937
+ci 0.8393700787401575
+122
+Training on 1000 samples...
+Train epoch: 123 [0/1000 (0%)]	Loss: 0.086974
+Make prediction for 51 samples...
+epoch: 123
+rmse: 0.4867435044901973
+mse: 0.23691924
+pearson 0.8006388377154225
+spearman 0.7494682566789332
+ci 0.8078740157480315
+123
+Training on 1000 samples...
+Train epoch: 124 [0/1000 (0%)]	Loss: 0.063808
+Make prediction for 51 samples...
+epoch: 124
+rmse: 0.4658209202920399
+mse: 0.21698913
+pearson 0.8189953843971766
+spearman 0.7697425021346523
+ci 0.8149606299212598
+124
+Training on 1000 samples...
+Train epoch: 125 [0/1000 (0%)]	Loss: 0.073241
+Make prediction for 51 samples...
+epoch: 125
+rmse: 0.4303317875026701
+mse: 0.18518545
+pearson 0.8431908568258006
+spearman 0.820156585700882
+ci 0.8401574803149606
+125
+Training on 1000 samples...
+Train epoch: 126 [0/1000 (0%)]	Loss: 0.072947
+Make prediction for 51 samples...
+epoch: 126
+rmse: 0.4870025523753322
+mse: 0.23717149
+pearson 0.8279544320039327
+spearman 0.7952935903368885
+ci 0.831496062992126
+126
+Training on 1000 samples...
+Train epoch: 127 [0/1000 (0%)]	Loss: 0.083313
+Make prediction for 51 samples...
+epoch: 127
+rmse: 0.44520114041689623
+mse: 0.19820406
+pearson 0.8420633000720662
+spearman 0.8198665059823268
+ci 0.84251968503937
+127
+Training on 1000 samples...
+Train epoch: 128 [0/1000 (0%)]	Loss: 0.091762
+Make prediction for 51 samples...
+epoch: 128
+rmse: 0.4521957603390816
+mse: 0.204481
+pearson 0.8344704553724517
+spearman 0.7967597444048848
+ci 0.8275590551181102
+128
+Training on 1000 samples...
+Train epoch: 129 [0/1000 (0%)]	Loss: 0.068931
+Make prediction for 51 samples...
+epoch: 129
+rmse: 0.47895809658366034
+mse: 0.22940086
+pearson 0.813959990387412
+spearman 0.7718067704105858
+ci 0.8181102362204724
+129
+Training on 1000 samples...
+Train epoch: 130 [0/1000 (0%)]	Loss: 0.069982
+Make prediction for 51 samples...
+epoch: 130
+rmse: 0.4252692828059116
+mse: 0.18085396
+pearson 0.842561118856262
+spearman 0.8152237893734862
+ci 0.8401574803149606
+130
+Training on 1000 samples...
+Train epoch: 131 [0/1000 (0%)]	Loss: 0.067119
+Make prediction for 51 samples...
+epoch: 131
+rmse: 0.43809526682702066
+mse: 0.19192746
+pearson 0.8521423870920267
+spearman 0.8191609754329672
+ci 0.841732283464567
+131
+Training on 1000 samples...
+Train epoch: 132 [0/1000 (0%)]	Loss: 0.068939
+Make prediction for 51 samples...
+epoch: 132
+rmse: 0.41951916924101573
+mse: 0.17599633
+pearson 0.8503913685100375
+spearman 0.8265375424179722
+ci 0.8456692913385827
+132
+Training on 1000 samples...
+Train epoch: 133 [0/1000 (0%)]	Loss: 0.065292
+Make prediction for 51 samples...
+epoch: 133
+rmse: 0.4801178402842332
+mse: 0.23051314
+pearson 0.8178401462235075
+spearman 0.7817803353739854
+ci 0.8244094488188977
+133
+Training on 1000 samples...
+Train epoch: 134 [0/1000 (0%)]	Loss: 0.071074
+Make prediction for 51 samples...
+epoch: 134
+rmse: 0.42963781936583473
+mse: 0.18458866
+pearson 0.8445209871284812
+spearman 0.8165629648366232
+ci 0.8401574803149606
+134
+Training on 1000 samples...
+Train epoch: 135 [0/1000 (0%)]	Loss: 0.056130
+Make prediction for 51 samples...
+epoch: 135
+rmse: 0.41456249925925975
+mse: 0.17186207
+pearson 0.8547640490171494
+spearman 0.8373082353163229
+ci 0.852755905511811
+135
+Training on 1000 samples...
+Train epoch: 136 [0/1000 (0%)]	Loss: 0.063340
+Make prediction for 51 samples...
+epoch: 136
+rmse: 0.45443545955891884
+mse: 0.20651159
+pearson 0.8421105995043362
+spearman 0.8175317949945613
+ci 0.8440944881889764
+136
+Training on 1000 samples...
+Train epoch: 137 [0/1000 (0%)]	Loss: 0.062523
+Make prediction for 51 samples...
+epoch: 137
+rmse: 0.43184667303922253
+mse: 0.18649155
+pearson 0.8469605953828931
+spearman 0.8269713821450041
+ci 0.8488188976377953
+137
+Training on 1000 samples...
+Train epoch: 138 [0/1000 (0%)]	Loss: 0.063646
+Make prediction for 51 samples...
+epoch: 138
+rmse: 0.46939081259351956
+mse: 0.22032773
+pearson 0.840541266680638
+spearman 0.8051137057974043
+ci 0.8346456692913385
+138
+Training on 1000 samples...
+Train epoch: 139 [0/1000 (0%)]	Loss: 0.071541
+Make prediction for 51 samples...
+epoch: 139
+rmse: 0.40736427082776133
+mse: 0.16594565
+pearson 0.8618089430211615
+spearman 0.830746258550521
+ci 0.8456692913385827
+139
+Training on 1000 samples...
+Train epoch: 140 [0/1000 (0%)]	Loss: 0.067292
+Make prediction for 51 samples...
+epoch: 140
+rmse: 0.42448295599371366
+mse: 0.18018578
+pearson 0.8459929154484044
+spearman 0.8057654918282959
+ci 0.8354330708661417
+140
+Training on 1000 samples...
+Train epoch: 141 [0/1000 (0%)]	Loss: 0.056079
+Make prediction for 51 samples...
+epoch: 141
+rmse: 0.4273039860331253
+mse: 0.1825887
+pearson 0.8456876123128302
+spearman 0.8116033883992506
+ci 0.8377952755905512
+141
+Training on 1000 samples...
+Train epoch: 142 [0/1000 (0%)]	Loss: 0.052882
+Make prediction for 51 samples...
+epoch: 142
+rmse: 0.4336769264791498
+mse: 0.18807568
+pearson 0.848789885409613
+spearman 0.8205638808104835
+ci 0.8409448818897638
+142
+Training on 1000 samples...
+Train epoch: 143 [0/1000 (0%)]	Loss: 0.056619
+Make prediction for 51 samples...
+epoch: 143
+rmse: 0.47469380887468116
+mse: 0.22533421
+pearson 0.8298936590939694
+spearman 0.7810110001669605
+ci 0.8220472440944881
+143
+Training on 1000 samples...
+Train epoch: 144 [0/1000 (0%)]	Loss: 0.061319
+Make prediction for 51 samples...
+epoch: 144
+rmse: 0.43980746077176386
+mse: 0.1934306
+pearson 0.8401424975044338
+spearman 0.8035027412193987
+ci 0.8330708661417323
+144
+Training on 1000 samples...
+Train epoch: 145 [0/1000 (0%)]	Loss: 0.059401
+Make prediction for 51 samples...
+epoch: 145
+rmse: 0.4360354638178682
+mse: 0.19012693
+pearson 0.8495054471370489
+spearman 0.8135946089350801
+ci 0.841732283464567
+145
+Training on 1000 samples...
+Train epoch: 146 [0/1000 (0%)]	Loss: 0.050743
+Make prediction for 51 samples...
+epoch: 146
+rmse: 0.4174874466876178
+mse: 0.17429577
+pearson 0.8501162174929885
+spearman 0.8156578850706772
+ci 0.8385826771653543
+146
+Training on 1000 samples...
+Train epoch: 147 [0/1000 (0%)]	Loss: 0.047775
+Make prediction for 51 samples...
+epoch: 147
+rmse: 0.4587547052282447
+mse: 0.21045588
+pearson 0.8361268861956713
+spearman 0.7906955727730404
+ci 0.8307086614173228
+147
+Training on 1000 samples...
+Train epoch: 148 [0/1000 (0%)]	Loss: 0.047697
+Make prediction for 51 samples...
+epoch: 148
+rmse: 0.42155702404992984
+mse: 0.17771032
+pearson 0.8568966903247227
+spearman 0.8000905130964032
+ci 0.8322834645669291
+148
+Training on 1000 samples...
+Train epoch: 149 [0/1000 (0%)]	Loss: 0.048848
+Make prediction for 51 samples...
+epoch: 149
+rmse: 0.4232912134664454
+mse: 0.17917545
+pearson 0.8546088904570205
+spearman 0.816834488766407
+ci 0.8433070866141732
+149
+Training on 1000 samples...
+Train epoch: 150 [0/1000 (0%)]	Loss: 0.045519
+Make prediction for 51 samples...
+epoch: 150
+rmse: 0.44498354490266956
+mse: 0.19801036
+pearson 0.8441756269156554
+spearman 0.8089785976929298
+ci 0.8393700787401575
+150
+Training on 1000 samples...
+Train epoch: 151 [0/1000 (0%)]	Loss: 0.045145
+Make prediction for 51 samples...
+epoch: 151
+rmse: 0.4124989589042241
+mse: 0.17015539
+pearson 0.8534963205163065
+spearman 0.8196402360408401
+ci 0.8433070866141732
+151
+Training on 1000 samples...
+Train epoch: 152 [0/1000 (0%)]	Loss: 0.042242
+Make prediction for 51 samples...
+epoch: 152
+rmse: 0.4403376514840096
+mse: 0.19389725
+pearson 0.8485333119487396
+spearman 0.8073494172545238
+ci 0.8338582677165355
+152
+Training on 1000 samples...
+Train epoch: 153 [0/1000 (0%)]	Loss: 0.048709
+Make prediction for 51 samples...
+epoch: 153
+rmse: 0.42229479636920947
+mse: 0.1783329
+pearson 0.8455325172671082
+spearman 0.8117391534357844
+ci 0.8330708661417323
+153
+Training on 1000 samples...
+Train epoch: 154 [0/1000 (0%)]	Loss: 0.041778
+Make prediction for 51 samples...
+epoch: 154
+rmse: 0.4422120023483132
+mse: 0.19555146
+pearson 0.8432022922420573
+spearman 0.8100463905218108
+ci 0.84251968503937
+154
+Training on 1000 samples...
+Train epoch: 155 [0/1000 (0%)]	Loss: 0.039665
+Make prediction for 51 samples...
+epoch: 155
+rmse: 0.42880946528277336
+mse: 0.18387756
+pearson 0.853515512537086
+spearman 0.8118749184723183
+ci 0.8393700787401575
+155
+Training on 1000 samples...
+Train epoch: 156 [0/1000 (0%)]	Loss: 0.042869
+Make prediction for 51 samples...
+epoch: 156
+rmse: 0.4209096601720354
+mse: 0.17716494
+pearson 0.85595659157667
+spearman 0.8174412849702054
+ci 0.8433070866141732
+156
+Training on 1000 samples...
+Train epoch: 157 [0/1000 (0%)]	Loss: 0.034896
+Make prediction for 51 samples...
+epoch: 157
+rmse: 0.45741381487435473
+mse: 0.2092274
+pearson 0.8358508571368156
+spearman 0.7906503177608625
+ci 0.8299212598425196
+157
+Training on 1000 samples...
+Train epoch: 158 [0/1000 (0%)]	Loss: 0.037824
+Make prediction for 51 samples...
+epoch: 158
+rmse: 0.4307444836877126
+mse: 0.18554081
+pearson 0.8414616046569856
+spearman 0.7913112393667255
+ci 0.8267716535433071
+158
+Training on 1000 samples...
+Train epoch: 159 [0/1000 (0%)]	Loss: 0.034412
+Make prediction for 51 samples...
+epoch: 159
+rmse: 0.4321594572313058
+mse: 0.1867618
+pearson 0.8498595710362145
+spearman 0.7990677500259601
+ci 0.8307086614173228
+159
+Training on 1000 samples...
+Train epoch: 160 [0/1000 (0%)]	Loss: 0.037627
+Make prediction for 51 samples...
+epoch: 160
+rmse: 0.43445407298656386
+mse: 0.18875034
+pearson 0.8484822415190597
+spearman 0.8077567123641254
+ci 0.8346456692913385
+160
+Training on 1000 samples...
+Train epoch: 161 [0/1000 (0%)]	Loss: 0.042702
+Make prediction for 51 samples...
+epoch: 161
+rmse: 0.43185674857894996
+mse: 0.18650025
+pearson 0.8400376593526704
+spearman 0.7961534161145374
+ci 0.8291338582677166
+161
+Training on 1000 samples...
+Train epoch: 162 [0/1000 (0%)]	Loss: 0.030658
+Make prediction for 51 samples...
+epoch: 162
+rmse: 0.46948034292981755
+mse: 0.22041179
+pearson 0.8294469263844214
+spearman 0.790360905612482
+ci 0.8267716535433071
+162
+Training on 1000 samples...
+Train epoch: 163 [0/1000 (0%)]	Loss: 0.035188
+Make prediction for 51 samples...
+epoch: 163
+rmse: 0.4242266350394469
+mse: 0.17996824
+pearson 0.8463554566083479
+spearman 0.8040910563777119
+ci 0.8299212598425196
+163
+Training on 1000 samples...
+Train epoch: 164 [0/1000 (0%)]	Loss: 0.031787
+Make prediction for 51 samples...
+epoch: 164
+rmse: 0.445709720599547
+mse: 0.19865716
+pearson 0.8452939219827432
+spearman 0.8105894383813786
+ci 0.8393700787401575
+164
+Training on 1000 samples...
+Train epoch: 165 [0/1000 (0%)]	Loss: 0.039498
+Make prediction for 51 samples...
+epoch: 165
+rmse: 0.4267776449732359
+mse: 0.18213916
+pearson 0.8487574788724996
+spearman 0.8026881510001956
+ci 0.8354330708661417
+165
+Training on 1000 samples...
+Train epoch: 166 [0/1000 (0%)]	Loss: 0.031420
+Make prediction for 51 samples...
+epoch: 166
+rmse: 0.43208462763083283
+mse: 0.18669713
+pearson 0.8454200207719923
+spearman 0.7994569572602408
+ci 0.8330708661417323
+166
+Training on 1000 samples...
+Train epoch: 167 [0/1000 (0%)]	Loss: 0.033194
+Make prediction for 51 samples...
+epoch: 167
+rmse: 0.4319003432824744
+mse: 0.1865379
+pearson 0.8488410362599628
+spearman 0.7966239793683512
+ci 0.8275590551181102
+167
+Training on 1000 samples...
+Train epoch: 168 [0/1000 (0%)]	Loss: 0.030821
+Make prediction for 51 samples...
+epoch: 168
+rmse: 0.40644741763550934
+mse: 0.1651995
+pearson 0.8567894490711846
+spearman 0.8044078414629575
+ci 0.8346456692913385
+168
+Training on 1000 samples...
+Train epoch: 169 [0/1000 (0%)]	Loss: 0.037925
+Make prediction for 51 samples...
+epoch: 169
+rmse: 0.45547860659997136
+mse: 0.20746076
+pearson 0.8448283628205826
+spearman 0.805629726791762
+ci 0.8393700787401575
+169
+Training on 1000 samples...
+Train epoch: 170 [0/1000 (0%)]	Loss: 0.038090
+Make prediction for 51 samples...
+epoch: 170
+rmse: 0.42167505188408627
+mse: 0.17780985
+pearson 0.860812390995163
+spearman 0.8123090899366763
+ci 0.84251968503937
+170
+Training on 1000 samples...
+Train epoch: 171 [0/1000 (0%)]	Loss: 0.041273
+Make prediction for 51 samples...
+epoch: 171
+rmse: 0.4029590753146065
+mse: 0.16237602
+pearson 0.8625273586420664
+spearman 0.8082997725102608
+ci 0.8409448818897638
+171
+Training on 1000 samples...
+Train epoch: 172 [0/1000 (0%)]	Loss: 0.028126
+Make prediction for 51 samples...
+epoch: 172
+rmse: 0.4639366178251089
+mse: 0.21523719
+pearson 0.8481408065468594
+spearman 0.7993845351112058
+ci 0.8330708661417323
+172
+Training on 1000 samples...
+Train epoch: 173 [0/1000 (0%)]	Loss: 0.045127
+Make prediction for 51 samples...
+epoch: 173
+rmse: 0.3922378621688129
+mse: 0.15385054
+pearson 0.8666653061216996
+spearman 0.8272163676006412
+ci 0.8503937007874016
+173
+Training on 1000 samples...
+Train epoch: 174 [0/1000 (0%)]	Loss: 0.033916
+Make prediction for 51 samples...
+epoch: 174
+rmse: 0.44483964476652416
+mse: 0.19788231
+pearson 0.8477153919031863
+spearman 0.8057654918282959
+ci 0.8362204724409449
+174
+Training on 1000 samples...
+Train epoch: 175 [0/1000 (0%)]	Loss: 0.035514
+Make prediction for 51 samples...
+epoch: 175
+rmse: 0.4207327532097892
+mse: 0.17701605
+pearson 0.8523863346450998
+spearman 0.8098653745686217
+ci 0.8393700787401575
+175
+Training on 1000 samples...
+Train epoch: 176 [0/1000 (0%)]	Loss: 0.032298
+Make prediction for 51 samples...
+epoch: 176
+rmse: 0.40621739036554966
+mse: 0.16501257
+pearson 0.8580564168296567
+spearman 0.8090238527051078
+ci 0.8346456692913385
+176
+Training on 1000 samples...
+Train epoch: 177 [0/1000 (0%)]	Loss: 0.037316
+Make prediction for 51 samples...
+epoch: 177
+rmse: 0.4335951246635022
+mse: 0.18800473
+pearson 0.8473396048603824
+spearman 0.8072406432473779
+ci 0.8362204724409449
+177
+Training on 1000 samples...
+Train epoch: 178 [0/1000 (0%)]	Loss: 0.028781
+Make prediction for 51 samples...
+epoch: 178
+rmse: 0.40977342087245494
+mse: 0.16791426
+pearson 0.8539398415126066
+spearman 0.8165629648366232
+ci 0.8448818897637795
+178
+Training on 1000 samples...
+Train epoch: 179 [0/1000 (0%)]	Loss: 0.033922
+Make prediction for 51 samples...
+epoch: 179
+rmse: 0.42458832591225226
+mse: 0.18027525
+pearson 0.8577196987150038
+spearman 0.8152237893734862
+ci 0.8401574803149606
+179
+Training on 1000 samples...
+Train epoch: 180 [0/1000 (0%)]	Loss: 0.030338
+Make prediction for 51 samples...
+epoch: 180
+rmse: 0.41223433710721347
+mse: 0.16993715
+pearson 0.8622153673213677
+spearman 0.8254966771378794
+ci 0.8464566929133859
+180
+Training on 1000 samples...
+Train epoch: 181 [0/1000 (0%)]	Loss: 0.030058
+Make prediction for 51 samples...
+epoch: 181
+rmse: 0.4377500126237938
+mse: 0.19162507
+pearson 0.8527088991203833
+spearman 0.8034393082304039
+ci 0.8322834645669291
+181
+Training on 1000 samples...
+Train epoch: 182 [0/1000 (0%)]	Loss: 0.032777
+Make prediction for 51 samples...
+epoch: 182
+rmse: 0.4226552318060099
+mse: 0.17863744
+pearson 0.8496974042001996
+spearman 0.8114040101707302
+ci 0.8393700787401575
+182
+Training on 1000 samples...
+Train epoch: 183 [0/1000 (0%)]	Loss: 0.030685
+Make prediction for 51 samples...
+epoch: 183
+rmse: 0.4358025044441476
+mse: 0.18992382
+pearson 0.8511052155267175
+spearman 0.8125084886428094
+ci 0.8409448818897638
+183
+Training on 1000 samples...
+Train epoch: 184 [0/1000 (0%)]	Loss: 0.033316
+Make prediction for 51 samples...
+epoch: 184
+rmse: 0.4009270401004257
+mse: 0.16074249
+pearson 0.8609833746413873
+spearman 0.8173507749458496
+ci 0.8409448818897638
+184
+Training on 1000 samples...
+Train epoch: 185 [0/1000 (0%)]	Loss: 0.030956
+Make prediction for 51 samples...
+epoch: 185
+rmse: 0.42127671026904
+mse: 0.17747407
+pearson 0.8544500259948787
+spearman 0.802416620927128
+ci 0.8338582677165355
+185
+Training on 1000 samples...
+Train epoch: 186 [0/1000 (0%)]	Loss: 0.026494
+Make prediction for 51 samples...
+epoch: 186
+rmse: 0.41079578494376806
+mse: 0.16875318
+pearson 0.8561754506595707
+spearman 0.8068063571083884
+ci 0.837007874015748
+186
+Training on 1000 samples...
+Train epoch: 187 [0/1000 (0%)]	Loss: 0.024096
+Make prediction for 51 samples...
+epoch: 187
+rmse: 0.4077695707036788
+mse: 0.16627602
+pearson 0.8593203932065292
+spearman 0.8273521326371751
+ci 0.8456692913385827
+187
+Training on 1000 samples...
+Train epoch: 188 [0/1000 (0%)]	Loss: 0.025846
+Make prediction for 51 samples...
+epoch: 188
+rmse: 0.4169216409010713
+mse: 0.17382365
+pearson 0.8582956473937061
+spearman 0.829162333124293
+ci 0.8488188976377953
+188
+Training on 1000 samples...
+Train epoch: 189 [0/1000 (0%)]	Loss: 0.025776
+Make prediction for 51 samples...
+epoch: 189
+rmse: 0.4067523857684468
+mse: 0.1654475
+pearson 0.863860767621477
+spearman 0.8167892347781098
+ci 0.8440944881889764
+189
+Training on 1000 samples...
+Train epoch: 190 [0/1000 (0%)]	Loss: 0.027257
+Make prediction for 51 samples...
+epoch: 190
+rmse: 0.4133629016945674
+mse: 0.17086889
+pearson 0.8593526204599308
+spearman 0.8080282424371931
+ci 0.8401574803149606
+190
+Training on 1000 samples...
+Train epoch: 191 [0/1000 (0%)]	Loss: 0.025227
+Make prediction for 51 samples...
+epoch: 191
+rmse: 0.40810177653719837
+mse: 0.16654706
+pearson 0.8618640323466664
+spearman 0.8166266947510025
+ci 0.8464566929133859
+191
+Training on 1000 samples...
+Train epoch: 192 [0/1000 (0%)]	Loss: 0.024441
+Make prediction for 51 samples...
+epoch: 192
+rmse: 0.4054176717349091
+mse: 0.16436349
+pearson 0.8593844773361474
+spearman 0.8199303106399924
+ci 0.8440944881889764
+192
+Training on 1000 samples...
+Train epoch: 193 [0/1000 (0%)]	Loss: 0.024970
+Make prediction for 51 samples...
+epoch: 193
+rmse: 0.41913187990193457
+mse: 0.17567153
+pearson 0.854182614623966
+spearman 0.8073946722667018
+ci 0.84251968503937
+193
+Training on 1000 samples...
+Train epoch: 194 [0/1000 (0%)]	Loss: 0.024971
+Make prediction for 51 samples...
+epoch: 194
+rmse: 0.4245835528905049
+mse: 0.1802712
+pearson 0.8483464870473867
+spearman 0.7914649079800655
+ci 0.831496062992126
+194
+Training on 1000 samples...
+Train epoch: 195 [0/1000 (0%)]	Loss: 0.023761
+Make prediction for 51 samples...
+epoch: 195
+rmse: 0.42589541313373214
+mse: 0.1813869
+pearson 0.847276994143416
+spearman 0.8037290162802883
+ci 0.8362204724409449
+195
+Training on 1000 samples...
+Train epoch: 196 [0/1000 (0%)]	Loss: 0.025063
+Make prediction for 51 samples...
+epoch: 196
+rmse: 0.4069246412427155
+mse: 0.16558766
+pearson 0.8610574334975518
+spearman 0.8260210483907605
+ci 0.8519685039370078
+196
+Training on 1000 samples...
+Train epoch: 197 [0/1000 (0%)]	Loss: 0.026446
+Make prediction for 51 samples...
+epoch: 197
+rmse: 0.4007238536581999
+mse: 0.1605796
+pearson 0.8693871571974744
+spearman 0.8300674333678519
+ci 0.8496062992125984
+197
+Training on 1000 samples...
+Train epoch: 198 [0/1000 (0%)]	Loss: 0.021052
+Make prediction for 51 samples...
+epoch: 198
+rmse: 0.3988350586470607
+mse: 0.1590694
+pearson 0.8659313482980076
+spearman 0.8269261281567067
+ci 0.8472440944881889
+198
+Training on 1000 samples...
+Train epoch: 199 [0/1000 (0%)]	Loss: 0.024890
+Make prediction for 51 samples...
+epoch: 199
+rmse: 0.4479707881108075
+mse: 0.20067783
+pearson 0.8474362769010729
+spearman 0.8039371021016744
+ci 0.8362204724409449
+199
+Training on 1000 samples...
+Train epoch: 200 [0/1000 (0%)]	Loss: 0.023551
+Make prediction for 51 samples...
+epoch: 200
+rmse: 0.4166746873878336
+mse: 0.1736178
+pearson 0.8543341215768188
+spearman 0.8059012568648296
+ci 0.837007874015748
+200
+Training on 1000 samples...
+Train epoch: 201 [0/1000 (0%)]	Loss: 0.021983
+Make prediction for 51 samples...
+epoch: 201
+rmse: 0.40633154930897136
+mse: 0.16510533
+pearson 0.8673130729551218
+spearman 0.8193687121110563
+ci 0.8409448818897638
+201
+Training on 1000 samples...
+Train epoch: 202 [0/1000 (0%)]	Loss: 0.021801
+Make prediction for 51 samples...
+epoch: 202
+rmse: 0.4031887994596574
+mse: 0.16256121
+pearson 0.8677304905794445
+spearman 0.8197307440174348
+ci 0.84251968503937
+202
+Training on 1000 samples...
+Train epoch: 203 [0/1000 (0%)]	Loss: 0.024304
+Make prediction for 51 samples...
+epoch: 203
+rmse: 0.4300011963605872
+mse: 0.18490103
+pearson 0.8490013467931451
+spearman 0.7988234014240786
+ci 0.8322834645669291
+203
+Training on 1000 samples...
+Train epoch: 204 [0/1000 (0%)]	Loss: 0.023350
+Make prediction for 51 samples...
+epoch: 204
+rmse: 0.43043854706139606
+mse: 0.18527734
+pearson 0.8473905669364988
+spearman 0.8034122311950427
+ci 0.8338582677165355
+204
+Training on 1000 samples...
+Train epoch: 205 [0/1000 (0%)]	Loss: 0.020443
+Make prediction for 51 samples...
+epoch: 205
+rmse: 0.41754801242831757
+mse: 0.17434634
+pearson 0.8590065766604956
+spearman 0.8028239160367294
+ci 0.8307086614173228
+205
+Training on 1000 samples...
+Train epoch: 206 [0/1000 (0%)]	Loss: 0.026662
+Make prediction for 51 samples...
+epoch: 206
+rmse: 0.4097967843280962
+mse: 0.1679334
+pearson 0.860109664710012
+spearman 0.806380817469729
+ci 0.8322834645669291
+206
+Training on 1000 samples...
+Train epoch: 207 [0/1000 (0%)]	Loss: 0.022646
+Make prediction for 51 samples...
+epoch: 207
+rmse: 0.4224447711985345
+mse: 0.17845958
+pearson 0.8518928528142445
+spearman 0.8075304373032356
+ci 0.8362204724409449
+207
+Training on 1000 samples...
+Train epoch: 208 [0/1000 (0%)]	Loss: 0.021773
+Make prediction for 51 samples...
+epoch: 208
+rmse: 0.4196984517308186
+mse: 0.17614679
+pearson 0.8562724879139251
+spearman 0.8068786113409994
+ci 0.8346456692913385
+208
+Training on 1000 samples...
+Train epoch: 209 [0/1000 (0%)]	Loss: 0.022535
+Make prediction for 51 samples...
+epoch: 209
+rmse: 0.4071949459399311
+mse: 0.16580772
+pearson 0.8620437812411826
+spearman 0.8049056465969149
+ci 0.8362204724409449
+209
+Training on 1000 samples...
+Train epoch: 210 [0/1000 (0%)]	Loss: 0.021345
+Make prediction for 51 samples...
+epoch: 210
+rmse: 0.41772109564725257
+mse: 0.17449091
+pearson 0.8593362484164162
+spearman 0.800787440488722
+ci 0.8362204724409449
+210
+Training on 1000 samples...
+Train epoch: 211 [0/1000 (0%)]	Loss: 0.023853
+Make prediction for 51 samples...
+epoch: 211
+rmse: 0.40603876123943244
+mse: 0.16486748
+pearson 0.858972279434679
+spearman 0.8032582922772147
+ci 0.8377952755905512
+211
+Training on 1000 samples...
+Train epoch: 212 [0/1000 (0%)]	Loss: 0.019989
+Make prediction for 51 samples...
+epoch: 212
+rmse: 0.42334605633710093
+mse: 0.17922188
+pearson 0.8575065052410741
+spearman 0.8125537436549874
+ci 0.84251968503937
+212
+Training on 1000 samples...
+Train epoch: 213 [0/1000 (0%)]	Loss: 0.020071
+Make prediction for 51 samples...
+epoch: 213
+rmse: 0.41236988529757934
+mse: 0.17004892
+pearson 0.8577091334293077
+spearman 0.814481281374947
+ci 0.8433070866141732
+213
+Training on 1000 samples...
+Train epoch: 214 [0/1000 (0%)]	Loss: 0.022133
+Make prediction for 51 samples...
+epoch: 214
+rmse: 0.41291358183790455
+mse: 0.17049763
+pearson 0.8587512848576865
+spearman 0.8060822769135414
+ci 0.8354330708661417
+214
+Training on 1000 samples...
+Train epoch: 215 [0/1000 (0%)]	Loss: 0.017016
+Make prediction for 51 samples...
+epoch: 215
+rmse: 0.39585631287111095
+mse: 0.15670222
+pearson 0.8671974939946561
+spearman 0.8231434165046264
+ci 0.8440944881889764
+215
+Training on 1000 samples...
+Train epoch: 216 [0/1000 (0%)]	Loss: 0.022094
+Make prediction for 51 samples...
+epoch: 216
+rmse: 0.41909842372020784
+mse: 0.17564349
+pearson 0.8573034234438863
+spearman 0.8086435168845943
+ci 0.8377952755905512
+216
+Training on 1000 samples...
+Train epoch: 217 [0/1000 (0%)]	Loss: 0.018242
+Make prediction for 51 samples...
+epoch: 217
+rmse: 0.4240603711574477
+mse: 0.1798272
+pearson 0.8502100777020578
+spearman 0.8053129417065165
+ci 0.837007874015748
+217
+Training on 1000 samples...
+Train epoch: 218 [0/1000 (0%)]	Loss: 0.021687
+Make prediction for 51 samples...
+epoch: 218
+rmse: 0.42746972035369624
+mse: 0.18273036
+pearson 0.8530900241107278
+spearman 0.8071683972058121
+ci 0.8377952755905512
+218
+Training on 1000 samples...
+Train epoch: 219 [0/1000 (0%)]	Loss: 0.022428
+Make prediction for 51 samples...
+epoch: 219
+rmse: 0.4073943928916057
+mse: 0.16597019
+pearson 0.8596005197482021
+spearman 0.8237769866751176
+ci 0.8496062992125984
+219
+Training on 1000 samples...
+Train epoch: 220 [0/1000 (0%)]	Loss: 0.020623
+Make prediction for 51 samples...
+epoch: 220
+rmse: 0.41707018942356394
+mse: 0.17394754
+pearson 0.8552437016993673
+spearman 0.8022356008784162
+ci 0.8362204724409449
+220
+Training on 1000 samples...
+Train epoch: 221 [0/1000 (0%)]	Loss: 0.020123
+Make prediction for 51 samples...
+epoch: 221
+rmse: 0.44223210207560554
+mse: 0.19556923
+pearson 0.8429530453827212
+spearman 0.7955378590760803
+ci 0.831496062992126
+221
+Training on 1000 samples...
+Train epoch: 222 [0/1000 (0%)]	Loss: 0.021827
+Make prediction for 51 samples...
+epoch: 222
+rmse: 0.41733624381938533
+mse: 0.17416954
+pearson 0.8533916854225142
+spearman 0.8102909930460902
+ci 0.8354330708661417
+222
+Training on 1000 samples...
+Train epoch: 223 [0/1000 (0%)]	Loss: 0.019837
+Make prediction for 51 samples...
+epoch: 223
+rmse: 0.4349351358833203
+mse: 0.18916857
+pearson 0.8482384324339377
+spearman 0.806516579434621
+ci 0.8330708661417323
+223
+Training on 1000 samples...
+Train epoch: 224 [0/1000 (0%)]	Loss: 0.018723
+Make prediction for 51 samples...
+epoch: 224
+rmse: 0.441916837181971
+mse: 0.19529049
+pearson 0.8406048333176511
+spearman 0.796967987903889
+ci 0.831496062992126
+224
+Training on 1000 samples...
+Train epoch: 225 [0/1000 (0%)]	Loss: 0.021312
+Make prediction for 51 samples...
+epoch: 225
+rmse: 0.42935408748135034
+mse: 0.18434493
+pearson 0.8420855582152189
+spearman 0.7958546441613261
+ci 0.8299212598425196
+225
+Training on 1000 samples...
+Train epoch: 226 [0/1000 (0%)]	Loss: 0.022217
+Make prediction for 51 samples...
+epoch: 226
+rmse: 0.45135571916273437
+mse: 0.20372199
+pearson 0.8374887391565438
+spearman 0.7970765294901305
+ci 0.8338582677165355
+226
+Training on 1000 samples...
+Train epoch: 227 [0/1000 (0%)]	Loss: 0.017181
+Make prediction for 51 samples...
+epoch: 227
+rmse: 0.42622794771062883
+mse: 0.18167026
+pearson 0.8448211554874446
+spearman 0.8083450275224385
+ci 0.8385826771653543
+227
+Training on 1000 samples...
+Train epoch: 228 [0/1000 (0%)]	Loss: 0.020579
+Make prediction for 51 samples...
+epoch: 228
+rmse: 0.43892836710909483
+mse: 0.19265811
+pearson 0.8451364498554169
+spearman 0.8025071309514838
+ci 0.8354330708661417
+228
+Training on 1000 samples...
+Train epoch: 229 [0/1000 (0%)]	Loss: 0.018800
+Make prediction for 51 samples...
+epoch: 229
+rmse: 0.4344436632404366
+mse: 0.1887413
+pearson 0.84261078064899
+spearman 0.7990949253538625
+ci 0.8346456692913385
+229
+Training on 1000 samples...
+Train epoch: 230 [0/1000 (0%)]	Loss: 0.019539
+Make prediction for 51 samples...
+epoch: 230
+rmse: 0.4499227894665923
+mse: 0.20243052
+pearson 0.8308905075927208
+spearman 0.7881887141742112
+ci 0.8307086614173228
+230
+Training on 1000 samples...
+Train epoch: 231 [0/1000 (0%)]	Loss: 0.022452
+Make prediction for 51 samples...
+epoch: 231
+rmse: 0.44518771849325256
+mse: 0.1981921
+pearson 0.8358705185078531
+spearman 0.8004254003912985
+ci 0.8346456692913385
+231
+Training on 1000 samples...
+Train epoch: 232 [0/1000 (0%)]	Loss: 0.019374
+Make prediction for 51 samples...
+epoch: 232
+rmse: 0.4291934554371653
+mse: 0.18420702
+pearson 0.8500451503661279
+spearman 0.8070596272941886
+ci 0.8393700787401575
+232
+Training on 1000 samples...
+Train epoch: 233 [0/1000 (0%)]	Loss: 0.018845
+Make prediction for 51 samples...
+epoch: 233
+rmse: 0.4029702798992578
+mse: 0.16238505
+pearson 0.8600187897353518
+spearman 0.8094311478147094
+ci 0.8401574803149606
+233
+Training on 1000 samples...
+Train epoch: 234 [0/1000 (0%)]	Loss: 0.020196
+Make prediction for 51 samples...
+epoch: 234
+rmse: 0.46066998946566706
+mse: 0.21221684
+pearson 0.8340050315464423
+spearman 0.781282530240028
+ci 0.8259842519685039
+234
+Training on 1000 samples...
+Train epoch: 235 [0/1000 (0%)]	Loss: 0.021752
+Make prediction for 51 samples...
+epoch: 235
+rmse: 0.4380534111938182
+mse: 0.19189079
+pearson 0.8338547808085739
+spearman 0.7864238086306161
+ci 0.831496062992126
+235
+Training on 1000 samples...
+Train epoch: 236 [0/1000 (0%)]	Loss: 0.020936
+Make prediction for 51 samples...
+epoch: 236
+rmse: 0.439580127589874
+mse: 0.19323069
+pearson 0.842813498079851
+spearman 0.7922342431870905
+ci 0.8307086614173228
+236
+Training on 1000 samples...
+Train epoch: 237 [0/1000 (0%)]	Loss: 0.019342
+Make prediction for 51 samples...
+epoch: 237
+rmse: 0.4258341100235268
+mse: 0.18133469
+pearson 0.8490517815571847
+spearman 0.8026428959880177
+ci 0.8362204724409449
+237
+Training on 1000 samples...
+Train epoch: 238 [0/1000 (0%)]	Loss: 0.021646
+Make prediction for 51 samples...
+epoch: 238
+rmse: 0.4408050764338486
+mse: 0.19430912
+pearson 0.8393176952398325
+spearman 0.7897904725294815
+ci 0.8259842519685039
+238
+Training on 1000 samples...
+Train epoch: 239 [0/1000 (0%)]	Loss: 0.018452
+Make prediction for 51 samples...
+epoch: 239
+rmse: 0.4614729761279012
+mse: 0.21295731
+pearson 0.8252524489220626
+spearman 0.7876182319449401
+ci 0.8236220472440945
+239
+Training on 1000 samples...
+Train epoch: 240 [0/1000 (0%)]	Loss: 0.024306
+Make prediction for 51 samples...
+epoch: 240
+rmse: 0.4305049576390805
+mse: 0.18533452
+pearson 0.8412432930491069
+spearman 0.8000181052816969
+ci 0.8307086614173228
+240
+Training on 1000 samples...
+Train epoch: 241 [0/1000 (0%)]	Loss: 0.019793
+Make prediction for 51 samples...
+epoch: 241
+rmse: 0.4407062550288024
+mse: 0.194222
+pearson 0.8440372368263839
+spearman 0.8029144260610853
+ci 0.8330708661417323
+241
+Training on 1000 samples...
+Train epoch: 242 [0/1000 (0%)]	Loss: 0.019048
+Make prediction for 51 samples...
+epoch: 242
+rmse: 0.4291281787811249
+mse: 0.184151
+pearson 0.8473513735283119
+spearman 0.8054034517308722
+ci 0.8354330708661417
+242
+Training on 1000 samples...
+Train epoch: 243 [0/1000 (0%)]	Loss: 0.020502
+Make prediction for 51 samples...
+epoch: 243
+rmse: 0.4644177512388892
+mse: 0.21568385
+pearson 0.8321942123357271
+spearman 0.7810110001669605
+ci 0.8196850393700787
+243
+Training on 1000 samples...
+Train epoch: 244 [0/1000 (0%)]	Loss: 0.025140
+Make prediction for 51 samples...
+epoch: 244
+rmse: 0.42930919292851694
+mse: 0.18430638
+pearson 0.8397838869635285
+spearman 0.8000633602938748
+ci 0.831496062992126
+244
+Training on 1000 samples...
+Train epoch: 245 [0/1000 (0%)]	Loss: 0.020896
+Make prediction for 51 samples...
+epoch: 245
+rmse: 0.4405484092375857
+mse: 0.1940829
+pearson 0.8446221963074586
+spearman 0.8061545475282424
+ci 0.837007874015748
+245
+Training on 1000 samples...
+Train epoch: 246 [0/1000 (0%)]	Loss: 0.017622
+Make prediction for 51 samples...
+epoch: 246
+rmse: 0.4155091439731729
+mse: 0.17264785
+pearson 0.8533336606023713
+spearman 0.8139113940203258
+ci 0.8401574803149606
+246
+Training on 1000 samples...
+Train epoch: 247 [0/1000 (0%)]	Loss: 0.017289
+Make prediction for 51 samples...
+epoch: 247
+rmse: 0.4464815254821359
+mse: 0.19934575
+pearson 0.8392618109629567
+spearman 0.7855639828529674
+ci 0.8251968503937008
+247
+Training on 1000 samples...
+Train epoch: 248 [0/1000 (0%)]	Loss: 0.019137
+Make prediction for 51 samples...
+epoch: 248
+rmse: 0.4375125678845821
+mse: 0.19141725
+pearson 0.8389803620845661
+spearman 0.7912838879313536
+ci 0.8259842519685039
+248
+Training on 1000 samples...
+Train epoch: 249 [0/1000 (0%)]	Loss: 0.019248
+Make prediction for 51 samples...
+epoch: 249
+rmse: 0.4296207202690444
+mse: 0.18457396
+pearson 0.8490851039603031
+spearman 0.8044078414629575
+ci 0.8354330708661417
+249
+Training on 1000 samples...
+Train epoch: 250 [0/1000 (0%)]	Loss: 0.015286
+Make prediction for 51 samples...
+epoch: 250
+rmse: 0.42665311807985984
+mse: 0.18203288
+pearson 0.8520798637170699
+spearman 0.807123142193634
+ci 0.8385826771653543
+250
+Training on 1000 samples...
+Train epoch: 251 [0/1000 (0%)]	Loss: 0.015610
+Make prediction for 51 samples...
+epoch: 251
+rmse: 0.42010877131744584
+mse: 0.17649138
+pearson 0.8479586790562824
+spearman 0.7992940250868499
+ci 0.8346456692913385
+251
+Training on 1000 samples...
+Train epoch: 252 [0/1000 (0%)]	Loss: 0.019156
+Make prediction for 51 samples...
+epoch: 252
+rmse: 0.44917670343411187
+mse: 0.20175971
+pearson 0.8393040264186459
+spearman 0.8004072910144844
+ci 0.8346456692913385
+252
+Training on 1000 samples...
+Train epoch: 253 [0/1000 (0%)]	Loss: 0.020927
+Make prediction for 51 samples...
+epoch: 253
+rmse: 0.4098791003497665
+mse: 0.16800088
+pearson 0.8550778097013606
+spearman 0.820156585700882
+ci 0.841732283464567
+253
+Training on 1000 samples...
+Train epoch: 254 [0/1000 (0%)]	Loss: 0.017292
+Make prediction for 51 samples...
+epoch: 254
+rmse: 0.42396917501110415
+mse: 0.17974986
+pearson 0.8527017837099515
+spearman 0.810472013094802
+ci 0.8393700787401575
+254
+Training on 1000 samples...
+Train epoch: 255 [0/1000 (0%)]	Loss: 0.017099
+Make prediction for 51 samples...
+epoch: 255
+rmse: 0.439589551306163
+mse: 0.19323897
+pearson 0.8437518699730193
+spearman 0.8036385062559325
+ci 0.8338582677165355
+255
+Training on 1000 samples...
+Train epoch: 256 [0/1000 (0%)]	Loss: 0.017822
+Make prediction for 51 samples...
+epoch: 256
+rmse: 0.4297872080859036
+mse: 0.18471704
+pearson 0.8462347258757759
+spearman 0.7882970571276093
+ci 0.8228346456692913
+256
+Training on 1000 samples...
+Train epoch: 257 [0/1000 (0%)]	Loss: 0.016664
+Make prediction for 51 samples...
+epoch: 257
+rmse: 0.42717818238171407
+mse: 0.1824812
+pearson 0.8488976666212863
+spearman 0.797483824599732
+ci 0.8330708661417323
+257
+Training on 1000 samples...
+Train epoch: 258 [0/1000 (0%)]	Loss: 0.015802
+Make prediction for 51 samples...
+epoch: 258
+rmse: 0.4349446602402035
+mse: 0.18917686
+pearson 0.8476593270543231
+spearman 0.8050866666456267
+ci 0.837007874015748
+258
+Training on 1000 samples...
+Train epoch: 259 [0/1000 (0%)]	Loss: 0.013972
+Make prediction for 51 samples...
+epoch: 259
+rmse: 0.42114167586520196
+mse: 0.17736031
+pearson 0.8497487546763937
+spearman 0.8111508382774711
+ci 0.8401574803149606
+259
+Training on 1000 samples...
+Train epoch: 260 [0/1000 (0%)]	Loss: 0.015355
+Make prediction for 51 samples...
+epoch: 260
+rmse: 0.43963554834548335
+mse: 0.19327942
+pearson 0.8403567449494772
+spearman 0.7909492074603469
+ci 0.8275590551181102
+260
+Training on 1000 samples...
+Train epoch: 261 [0/1000 (0%)]	Loss: 0.013830
+Make prediction for 51 samples...
+epoch: 261
+rmse: 0.4383354214732155
+mse: 0.19213794
+pearson 0.8440367596187766
+spearman 0.798008829634727
+ci 0.8330708661417323
+261
+Training on 1000 samples...
+Train epoch: 262 [0/1000 (0%)]	Loss: 0.017566
+Make prediction for 51 samples...
+epoch: 262
+rmse: 0.42289589171598146
+mse: 0.17884094
+pearson 0.8507811822090886
+spearman 0.8162914409068394
+ci 0.841732283464567
+262
+Training on 1000 samples...
+Train epoch: 263 [0/1000 (0%)]	Loss: 0.015601
+Make prediction for 51 samples...
+epoch: 263
+rmse: 0.4338292521924599
+mse: 0.18820782
+pearson 0.8450045691007949
+spearman 0.8098836979364887
+ci 0.8401574803149606
+263
+Training on 1000 samples...
+Train epoch: 264 [0/1000 (0%)]	Loss: 0.016817
+Make prediction for 51 samples...
+epoch: 264
+rmse: 0.44574249989655174
+mse: 0.19868638
+pearson 0.8364242226274883
+spearman 0.7927773033332258
+ci 0.8307086614173228
+264
+Training on 1000 samples...
+Train epoch: 265 [0/1000 (0%)]	Loss: 0.013469
+Make prediction for 51 samples...
+epoch: 265
+rmse: 0.43571376596705685
+mse: 0.18984649
+pearson 0.8381493856622867
+spearman 0.797483824599732
+ci 0.831496062992126
+265
+Training on 1000 samples...
+Train epoch: 266 [0/1000 (0%)]	Loss: 0.017301
+Make prediction for 51 samples...
+epoch: 266
+rmse: 0.4264533486639457
+mse: 0.18186246
+pearson 0.8502234567179767
+spearman 0.8067881033644048
+ci 0.8385826771653543
+266
+Training on 1000 samples...
+Train epoch: 267 [0/1000 (0%)]	Loss: 0.014965
+Make prediction for 51 samples...
+epoch: 267
+rmse: 0.4094020994695363
+mse: 0.16761008
+pearson 0.855926349198006
+spearman 0.8216766655142189
+ci 0.8433070866141732
+267
+Training on 1000 samples...
+Train epoch: 268 [0/1000 (0%)]	Loss: 0.019561
+Make prediction for 51 samples...
+epoch: 268
+rmse: 0.43122400053404847
+mse: 0.18595414
+pearson 0.8428725978604253
+spearman 0.8006516754521881
+ci 0.8346456692913385
+268
+Training on 1000 samples...
+Train epoch: 269 [0/1000 (0%)]	Loss: 0.015932
+Make prediction for 51 samples...
+epoch: 269
+rmse: 0.44866333501846123
+mse: 0.20129879
+pearson 0.8325490459132749
+spearman 0.7914649079800655
+ci 0.8291338582677166
+269
+Training on 1000 samples...
+Train epoch: 270 [0/1000 (0%)]	Loss: 0.017835
+Make prediction for 51 samples...
+epoch: 270
+rmse: 0.43077203690255467
+mse: 0.18556455
+pearson 0.8441109294092976
+spearman 0.7856270114091106
+ci 0.8244094488188977
+270
+Training on 1000 samples...
+Train epoch: 271 [0/1000 (0%)]	Loss: 0.014417
+Make prediction for 51 samples...
+epoch: 271
+rmse: 0.41904586972343955
+mse: 0.17559944
+pearson 0.8547401326317946
+spearman 0.8074399272788798
+ci 0.837007874015748
+271
+Training on 1000 samples...
+Train epoch: 272 [0/1000 (0%)]	Loss: 0.017900
+Make prediction for 51 samples...
+epoch: 272
+rmse: 0.4316178397814608
+mse: 0.18629396
+pearson 0.8517450009897307
+spearman 0.8018735607809925
+ci 0.8354330708661417
+272
+Training on 1000 samples...
+Train epoch: 273 [0/1000 (0%)]	Loss: 0.016302
+Make prediction for 51 samples...
+epoch: 273
+rmse: 0.41960659167514197
+mse: 0.17606969
+pearson 0.8500174107977813
+spearman 0.7985246898798248
+ci 0.8338582677165355
+273
+Training on 1000 samples...
+Train epoch: 274 [0/1000 (0%)]	Loss: 0.017519
+Make prediction for 51 samples...
+epoch: 274
+rmse: 0.439824400996239
+mse: 0.1934455
+pearson 0.8429123316345987
+spearman 0.7860617767242378
+ci 0.8251968503937008
+274
+Training on 1000 samples...
+Train epoch: 275 [0/1000 (0%)]	Loss: 0.015290
+Make prediction for 51 samples...
+epoch: 275
+rmse: 0.4171534635110839
+mse: 0.17401701
+pearson 0.8514925670496599
+spearman 0.799185433330457
+ci 0.8346456692913385
+275
+Training on 1000 samples...
+Train epoch: 276 [0/1000 (0%)]	Loss: 0.016667
+Make prediction for 51 samples...
+epoch: 276
+rmse: 0.4407119354086896
+mse: 0.19422701
+pearson 0.8406122462926123
+spearman 0.7875277219205843
+ci 0.8259842519685039
+276
+Training on 1000 samples...
+Train epoch: 277 [0/1000 (0%)]	Loss: 0.016436
+Make prediction for 51 samples...
+epoch: 277
+rmse: 0.4434793284812196
+mse: 0.19667391
+pearson 0.8336652173595751
+spearman 0.7982531598067572
+ci 0.8330708661417323
+277
+Training on 1000 samples...
+Train epoch: 278 [0/1000 (0%)]	Loss: 0.016314
+Make prediction for 51 samples...
+epoch: 278
+rmse: 0.4555569532257959
+mse: 0.20753214
+pearson 0.8315184490679284
+spearman 0.7838168109219928
+ci 0.8251968503937008
+278
+Training on 1000 samples...
+Train epoch: 279 [0/1000 (0%)]	Loss: 0.015758
+Make prediction for 51 samples...
+epoch: 279
+rmse: 0.42611542982643913
+mse: 0.18157436
+pearson 0.8437474310090333
+spearman 0.7985246898798248
+ci 0.8322834645669291
+279
+Training on 1000 samples...
+Train epoch: 280 [0/1000 (0%)]	Loss: 0.012878
+Make prediction for 51 samples...
+epoch: 280
+rmse: 0.4538872982408679
+mse: 0.20601368
+pearson 0.8376121439878882
+spearman 0.7861700715552459
+ci 0.8275590551181102
+280
+Training on 1000 samples...
+Train epoch: 281 [0/1000 (0%)]	Loss: 0.018545
+Make prediction for 51 samples...
+epoch: 281
+rmse: 0.42372442989789283
+mse: 0.17954239
+pearson 0.845268627246771
+spearman 0.7955651142666724
+ci 0.8338582677165355
+281
+Training on 1000 samples...
+Train epoch: 282 [0/1000 (0%)]	Loss: 0.013625
+Make prediction for 51 samples...
+epoch: 282
+rmse: 0.4446119687720777
+mse: 0.1976798
+pearson 0.8396549533048062
+spearman 0.7821423754714091
+ci 0.8212598425196851
+282
+Training on 1000 samples...
+Train epoch: 283 [0/1000 (0%)]	Loss: 0.014027
+Make prediction for 51 samples...
+epoch: 283
+rmse: 0.42999861464720834
+mse: 0.18489881
+pearson 0.8432647060292662
+spearman 0.8033217211706867
+ci 0.8322834645669291
+283
+Training on 1000 samples...
+Train epoch: 284 [0/1000 (0%)]	Loss: 0.013541
+Make prediction for 51 samples...
+epoch: 284
+rmse: 0.42620952310538096
+mse: 0.18165456
+pearson 0.8489485331023846
+spearman 0.8029596810732633
+ci 0.8322834645669291
+284
+Training on 1000 samples...
+Train epoch: 285 [0/1000 (0%)]	Loss: 0.015064
+Make prediction for 51 samples...
+epoch: 285
+rmse: 0.41615083673148534
+mse: 0.17318152
+pearson 0.8539964885795714
+spearman 0.8071683972058121
+ci 0.8385826771653543
+285
+Training on 1000 samples...
+Train epoch: 286 [0/1000 (0%)]	Loss: 0.015097
+Make prediction for 51 samples...
+epoch: 286
+rmse: 0.4251319764486546
+mse: 0.1807372
+pearson 0.8477337407772491
+spearman 0.7910123578582859
+ci 0.8322834645669291
+286
+Training on 1000 samples...
+Train epoch: 287 [0/1000 (0%)]	Loss: 0.013601
+Make prediction for 51 samples...
+epoch: 287
+rmse: 0.41834066012540744
+mse: 0.17500891
+pearson 0.8500848251714763
+spearman 0.7936371485646068
+ci 0.831496062992126
+287
+Training on 1000 samples...
+Train epoch: 288 [0/1000 (0%)]	Loss: 0.014928
+Make prediction for 51 samples...
+epoch: 288
+rmse: 0.43811882055498585
+mse: 0.1919481
+pearson 0.8401864214307688
+spearman 0.7866953325604
+ci 0.8259842519685039
+288
+Training on 1000 samples...
+Train epoch: 289 [0/1000 (0%)]	Loss: 0.017366
+Make prediction for 51 samples...
+epoch: 289
+rmse: 0.4496170268662915
+mse: 0.20215547
+pearson 0.8296810836031769
+spearman 0.7797714723509119
+ci 0.8236220472440945
+289
+Training on 1000 samples...
+Train epoch: 290 [0/1000 (0%)]	Loss: 0.014457
+Make prediction for 51 samples...
+epoch: 290
+rmse: 0.4467007263860012
+mse: 0.19954154
+pearson 0.8319039349115422
+spearman 0.780676552116858
+ci 0.8236220472440945
+290
+Training on 1000 samples...
+Train epoch: 291 [0/1000 (0%)]	Loss: 0.013692
+Make prediction for 51 samples...
+epoch: 291
+rmse: 0.44452376535346205
+mse: 0.19760138
+pearson 0.8426856398718919
+spearman 0.7928225583454038
+ci 0.8330708661417323
+291
+Training on 1000 samples...
+Train epoch: 292 [0/1000 (0%)]	Loss: 0.014576
+Make prediction for 51 samples...
+epoch: 292
+rmse: 0.4135660398140675
+mse: 0.17103687
+pearson 0.8536303684377305
+spearman 0.8045436064994913
+ci 0.837007874015748
+292
+Training on 1000 samples...
+Train epoch: 293 [0/1000 (0%)]	Loss: 0.015650
+Make prediction for 51 samples...
+epoch: 293
+rmse: 0.4506582664242009
+mse: 0.20309287
+pearson 0.834747154924077
+spearman 0.7871931264316705
+ci 0.8244094488188977
+293
+Training on 1000 samples...
+Train epoch: 294 [0/1000 (0%)]	Loss: 0.016401
+Make prediction for 51 samples...
+epoch: 294
+rmse: 0.4476657060886018
+mse: 0.20040458
+pearson 0.8307413711689439
+spearman 0.7760782038395645
+ci 0.8196850393700787
+294
+Training on 1000 samples...
+Train epoch: 295 [0/1000 (0%)]	Loss: 0.014910
+Make prediction for 51 samples...
+epoch: 295
+rmse: 0.44178595289091077
+mse: 0.19517483
+pearson 0.8366387013695417
+spearman 0.78787193625613
+ci 0.8275590551181102
+295
+Training on 1000 samples...
+Train epoch: 296 [0/1000 (0%)]	Loss: 0.013279
+Make prediction for 51 samples...
+epoch: 296
+rmse: 0.43052112170761325
+mse: 0.18534844
+pearson 0.8414028354455507
+spearman 0.7890663923346344
+ci 0.8251968503937008
+296
+Training on 1000 samples...
+Train epoch: 297 [0/1000 (0%)]	Loss: 0.013073
+Make prediction for 51 samples...
+epoch: 297
+rmse: 0.4526529813312027
+mse: 0.20489472
+pearson 0.8307285852280606
+spearman 0.780676552116858
+ci 0.8204724409448819
+297
+Training on 1000 samples...
+Train epoch: 298 [0/1000 (0%)]	Loss: 0.013699
+Make prediction for 51 samples...
+epoch: 298
+rmse: 0.44674902654241844
+mse: 0.1995847
+pearson 0.8308365884636933
+spearman 0.7822328854957649
+ci 0.8251968503937008
+298
+Training on 1000 samples...
+Train epoch: 299 [0/1000 (0%)]	Loss: 0.014480
+Make prediction for 51 samples...
+epoch: 299
+rmse: 0.4361346431408467
+mse: 0.19021343
+pearson 0.8388263642178554
+spearman 0.7870299167866269
+ci 0.8299212598425196
+299
+Training on 1000 samples...
+Train epoch: 300 [0/1000 (0%)]	Loss: 0.016585
+Make prediction for 51 samples...
+epoch: 300
+rmse: 0.426612846840732
+mse: 0.18199852
+pearson 0.8476752086748153
+spearman 0.7936371485646068
+ci 0.831496062992126
+300
+Training on 1000 samples...
+Train epoch: 301 [0/1000 (0%)]	Loss: 0.013222
+Make prediction for 51 samples...
+epoch: 301
+rmse: 0.4129523924908728
+mse: 0.17052968
+pearson 0.8550919244136479
+spearman 0.8016020307079249
+ci 0.8330708661417323
+301
+Training on 1000 samples...
+Train epoch: 302 [0/1000 (0%)]	Loss: 0.014314
+Make prediction for 51 samples...
+epoch: 302
+rmse: 0.4270468808721577
+mse: 0.18236904
+pearson 0.848796149849833
+spearman 0.792714113003942
+ci 0.8291338582677166
+302
+Training on 1000 samples...
+Train epoch: 303 [0/1000 (0%)]	Loss: 0.012825
+Make prediction for 51 samples...
+epoch: 303
+rmse: 0.4293324303937138
+mse: 0.18432634
+pearson 0.8437616308841176
+spearman 0.8003348903669424
+ci 0.8283464566929134
+303
+Training on 1000 samples...
+Train epoch: 304 [0/1000 (0%)]	Loss: 0.013519
+Make prediction for 51 samples...
+epoch: 304
+rmse: 0.44199283412695567
+mse: 0.19535767
+pearson 0.8359996832630402
+spearman 0.782911710678434
+ci 0.8244094488188977
+304
+Training on 1000 samples...
+Train epoch: 305 [0/1000 (0%)]	Loss: 0.014900
+Make prediction for 51 samples...
+epoch: 305
+rmse: 0.43491038185805264
+mse: 0.18914704
+pearson 0.839454027286336
+spearman 0.7870299167866269
+ci 0.8267716535433071
+305
+Training on 1000 samples...
+Train epoch: 306 [0/1000 (0%)]	Loss: 0.013959
+Make prediction for 51 samples...
+epoch: 306
+rmse: 0.4385603758776956
+mse: 0.1923352
+pearson 0.8397604382215275
+spearman 0.7865595705955081
+ci 0.8267716535433071
+306
+Training on 1000 samples...
+Train epoch: 307 [0/1000 (0%)]	Loss: 0.015619
+Make prediction for 51 samples...
+epoch: 307
+rmse: 0.443719272489903
+mse: 0.1968868
+pearson 0.8371067311080937
+spearman 0.7834095158123914
+ci 0.8259842519685039
+307
+Training on 1000 samples...
+Train epoch: 308 [0/1000 (0%)]	Loss: 0.015070
+Make prediction for 51 samples...
+epoch: 308
+rmse: 0.4359390648434353
+mse: 0.19004287
+pearson 0.8409024327039281
+spearman 0.7936371485646068
+ci 0.831496062992126
+308
+Training on 1000 samples...
+Train epoch: 309 [0/1000 (0%)]	Loss: 0.014051
+Make prediction for 51 samples...
+epoch: 309
+rmse: 0.42372683883768547
+mse: 0.17954443
+pearson 0.8482672703730653
+spearman 0.7950400539421231
+ci 0.8322834645669291
+309
+Training on 1000 samples...
+Train epoch: 310 [0/1000 (0%)]	Loss: 0.012658
+Make prediction for 51 samples...
+epoch: 310
+rmse: 0.41949769708162715
+mse: 0.17597832
+pearson 0.8504160685517136
+spearman 0.7945695265241316
+ci 0.8338582677165355
+310
+Training on 1000 samples...
+Train epoch: 311 [0/1000 (0%)]	Loss: 0.012632
+Make prediction for 51 samples...
+epoch: 311
+rmse: 0.4320766783796195
+mse: 0.18669026
+pearson 0.8440897695016237
+spearman 0.7883875671519652
+ci 0.8275590551181102
+311
+Training on 1000 samples...
+Train epoch: 312 [0/1000 (0%)]	Loss: 0.014317
+Make prediction for 51 samples...
+epoch: 312
+rmse: 0.43748506452407376
+mse: 0.19139318
+pearson 0.8396649635293465
+spearman 0.786260581579602
+ci 0.8291338582677166
+312
+Training on 1000 samples...
+Train epoch: 313 [0/1000 (0%)]	Loss: 0.014745
+Make prediction for 51 samples...
+epoch: 313
+rmse: 0.4303633316756185
+mse: 0.1852126
+pearson 0.8437924425925893
+spearman 0.7887043522372109
+ci 0.8299212598425196
+313
+Training on 1000 samples...
+Train epoch: 314 [0/1000 (0%)]	Loss: 0.012735
+Make prediction for 51 samples...
+epoch: 314
+rmse: 0.42708418039687596
+mse: 0.1824009
+pearson 0.8496245276725624
+spearman 0.7996560651842733
+ci 0.8322834645669291
+314
+Training on 1000 samples...
+Train epoch: 315 [0/1000 (0%)]	Loss: 0.012440
+Make prediction for 51 samples...
+epoch: 315
+rmse: 0.4203898107056103
+mse: 0.1767276
+pearson 0.8497971134575469
+spearman 0.8026247364410525
+ci 0.8338582677165355
+315
+Training on 1000 samples...
+Train epoch: 316 [0/1000 (0%)]	Loss: 0.012047
+Make prediction for 51 samples...
+epoch: 316
+rmse: 0.4425140590373994
+mse: 0.19581869
+pearson 0.8371770124320114
+spearman 0.7907860827973964
+ci 0.8275590551181102
+316
+Training on 1000 samples...
+Train epoch: 317 [0/1000 (0%)]	Loss: 0.013826
+Make prediction for 51 samples...
+epoch: 317
+rmse: 0.43933022369959096
+mse: 0.19301105
+pearson 0.833982748524923
+spearman 0.7960809192222157
+ci 0.8330708661417323
+317
+Training on 1000 samples...
+Train epoch: 318 [0/1000 (0%)]	Loss: 0.014557
+Make prediction for 51 samples...
+epoch: 318
+rmse: 0.44809750484566985
+mse: 0.20079137
+pearson 0.8297612479518537
+spearman 0.7978911197093335
+ci 0.8338582677165355
+318
+Training on 1000 samples...
+Train epoch: 319 [0/1000 (0%)]	Loss: 0.012301
+Make prediction for 51 samples...
+epoch: 319
+rmse: 0.4512626259429613
+mse: 0.20363796
+pearson 0.8308581323999996
+spearman 0.791990049191185
+ci 0.8307086614173228
+319
+Training on 1000 samples...
+Train epoch: 320 [0/1000 (0%)]	Loss: 0.013979
+Make prediction for 51 samples...
+epoch: 320
+rmse: 0.43193782741361453
+mse: 0.18657029
+pearson 0.839945141466344
+spearman 0.790243022651261
+ci 0.8299212598425196
+320
+Training on 1000 samples...
+Train epoch: 321 [0/1000 (0%)]	Loss: 0.012038
+Make prediction for 51 samples...
+epoch: 321
+rmse: 0.4513358111434427
+mse: 0.20370401
+pearson 0.8327931149895776
+spearman 0.7872561918475167
+ci 0.8291338582677166
+321
+Training on 1000 samples...
+Train epoch: 322 [0/1000 (0%)]	Loss: 0.013690
+Make prediction for 51 samples...
+epoch: 322
+rmse: 0.4419374055243267
+mse: 0.19530867
+pearson 0.8327320369505196
+spearman 0.7843598710681282
+ci 0.8212598425196851
+322
+Training on 1000 samples...
+Train epoch: 323 [0/1000 (0%)]	Loss: 0.012447
+Make prediction for 51 samples...
+epoch: 323
+rmse: 0.45089896729415124
+mse: 0.20330988
+pearson 0.8314875753912163
+spearman 0.7881612920910754
+ci 0.8251968503937008
+323
+Training on 1000 samples...
+Train epoch: 324 [0/1000 (0%)]	Loss: 0.011329
+Make prediction for 51 samples...
+epoch: 324
+rmse: 0.43963307405096297
+mse: 0.19327724
+pearson 0.8387213546831214
+spearman 0.7952663290030128
+ci 0.8307086614173228
+324
+Training on 1000 samples...
+Train epoch: 325 [0/1000 (0%)]	Loss: 0.013140
+Make prediction for 51 samples...
+epoch: 325
+rmse: 0.4455737635836494
+mse: 0.19853598
+pearson 0.8373394079108142
+spearman 0.7836633153444804
+ci 0.8251968503937008
+325
+Training on 1000 samples...
+Train epoch: 326 [0/1000 (0%)]	Loss: 0.013482
+Make prediction for 51 samples...
+epoch: 326
+rmse: 0.43483890419719395
+mse: 0.18908487
+pearson 0.8402296843549728
+spearman 0.7918722030896669
+ci 0.8291338582677166
+326
+Training on 1000 samples...
+Train epoch: 327 [0/1000 (0%)]	Loss: 0.013589
+Make prediction for 51 samples...
+epoch: 327
+rmse: 0.4452533013330122
+mse: 0.1982505
+pearson 0.8356134838327726
+spearman 0.7867131317013812
+ci 0.8275590551181102
+327
+Training on 1000 samples...
+Train epoch: 328 [0/1000 (0%)]	Loss: 0.010682
+Make prediction for 51 samples...
+epoch: 328
+rmse: 0.43513960678078434
+mse: 0.18934648
+pearson 0.8413059079438111
+spearman 0.7946600345007261
+ci 0.8322834645669291
+328
+Training on 1000 samples...
+Train epoch: 329 [0/1000 (0%)]	Loss: 0.013068
+Make prediction for 51 samples...
+epoch: 329
+rmse: 0.44561220423556913
+mse: 0.19857024
+pearson 0.8376141938767736
+spearman 0.795899899173504
+ci 0.8322834645669291
+329
+Training on 1000 samples...
+Train epoch: 330 [0/1000 (0%)]	Loss: 0.010478
+Make prediction for 51 samples...
+epoch: 330
+rmse: 0.4382264713319018
+mse: 0.19204244
+pearson 0.837249067459775
+spearman 0.7944517387838098
+ci 0.8291338582677166
+330
+Training on 1000 samples...
+Train epoch: 331 [0/1000 (0%)]	Loss: 0.011022
+Make prediction for 51 samples...
+epoch: 331
+rmse: 0.43030938315665207
+mse: 0.18516617
+pearson 0.842882610979755
+spearman 0.79610816212624
+ci 0.8307086614173228
+331
+Training on 1000 samples...
+Train epoch: 332 [0/1000 (0%)]	Loss: 0.012610
+Make prediction for 51 samples...
+epoch: 332
+rmse: 0.4319492117334877
+mse: 0.18658012
+pearson 0.8448693738116444
+spearman 0.7997284811900246
+ci 0.8338582677165355
+332
+Training on 1000 samples...
+Train epoch: 333 [0/1000 (0%)]	Loss: 0.013525
+Make prediction for 51 samples...
+epoch: 333
+rmse: 0.43394617415577924
+mse: 0.18830928
+pearson 0.8412638497350969
+spearman 0.7938181686133186
+ci 0.8307086614173228
+333
+Training on 1000 samples...
+Train epoch: 334 [0/1000 (0%)]	Loss: 0.011733
+Make prediction for 51 samples...
+epoch: 334
+rmse: 0.4374232054477414
+mse: 0.19133906
+pearson 0.8399059078995137
+spearman 0.79422546372292
+ci 0.8307086614173228
+334
+Training on 1000 samples...
+Train epoch: 335 [0/1000 (0%)]	Loss: 0.010405
+Make prediction for 51 samples...
+epoch: 335
+rmse: 0.43350760145353595
+mse: 0.18792884
+pearson 0.8422226389159437
+spearman 0.7960356642100378
+ci 0.831496062992126
+335
+Training on 1000 samples...
+Train epoch: 336 [0/1000 (0%)]	Loss: 0.011127
+Make prediction for 51 samples...
+epoch: 336
+rmse: 0.43378624638206265
+mse: 0.18817051
+pearson 0.8411645380356293
+spearman 0.7979363747215115
+ci 0.8330708661417323
+336
+Training on 1000 samples...
+Train epoch: 337 [0/1000 (0%)]	Loss: 0.013335
+Make prediction for 51 samples...
+epoch: 337
+rmse: 0.4415563311351785
+mse: 0.194972
+pearson 0.8369862609718373
+spearman 0.7937549547347801
+ci 0.8322834645669291
+337
+Training on 1000 samples...
+Train epoch: 338 [0/1000 (0%)]	Loss: 0.012427
+Make prediction for 51 samples...
+epoch: 338
+rmse: 0.4417455432593628
+mse: 0.19513912
+pearson 0.8350865276806912
+spearman 0.7881612920910754
+ci 0.8267716535433071
+338
+Training on 1000 samples...
+Train epoch: 339 [0/1000 (0%)]	Loss: 0.011752
+Make prediction for 51 samples...
+epoch: 339
+rmse: 0.4375563142500266
+mse: 0.19145553
+pearson 0.8364158694347209
+spearman 0.7959904091978599
+ci 0.8307086614173228
+339
+Training on 1000 samples...
+Train epoch: 340 [0/1000 (0%)]	Loss: 0.012934
+Make prediction for 51 samples...
+epoch: 340
+rmse: 0.4518020984203246
+mse: 0.20412514
+pearson 0.8310001267881152
+spearman 0.7849481862264415
+ci 0.8236220472440945
+340
+Training on 1000 samples...
+Train epoch: 341 [0/1000 (0%)]	Loss: 0.010740
+Make prediction for 51 samples...
+epoch: 341
+rmse: 0.4468230177249328
+mse: 0.19965081
+pearson 0.8313551541111858
+spearman 0.7858080314578225
+ci 0.8228346456692913
+341
+Training on 1000 samples...
+Train epoch: 342 [0/1000 (0%)]	Loss: 0.010215
+Make prediction for 51 samples...
+epoch: 342
+rmse: 0.44929843693373667
+mse: 0.20186909
+pearson 0.8321109444240937
+spearman 0.7855817563969327
+ci 0.8236220472440945
+342
+Training on 1000 samples...
+Train epoch: 343 [0/1000 (0%)]	Loss: 0.012340
+Make prediction for 51 samples...
+epoch: 343
+rmse: 0.44836837887135844
+mse: 0.2010342
+pearson 0.832799106825977
+spearman 0.7826854356175444
+ci 0.8236220472440945
+343
+Training on 1000 samples...
+Train epoch: 344 [0/1000 (0%)]	Loss: 0.011072
+Make prediction for 51 samples...
+epoch: 344
+rmse: 0.4363806574249036
+mse: 0.19042808
+pearson 0.8402139765318889
+spearman 0.7890937939401574
+ci 0.8299212598425196
+344
+Training on 1000 samples...
+Train epoch: 345 [0/1000 (0%)]	Loss: 0.010194
+Make prediction for 51 samples...
+epoch: 345
+rmse: 0.432668127501
+mse: 0.18720171
+pearson 0.8432476272450227
+spearman 0.7965787243561732
+ci 0.8338582677165355
+345
+Training on 1000 samples...
+Train epoch: 346 [0/1000 (0%)]	Loss: 0.010412
+Make prediction for 51 samples...
+epoch: 346
+rmse: 0.44361900088418255
+mse: 0.19679782
+pearson 0.8355665972789786
+spearman 0.7867858405369947
+ci 0.8275590551181102
+346
+Training on 1000 samples...
+Train epoch: 347 [0/1000 (0%)]	Loss: 0.009992
+Make prediction for 51 samples...
+epoch: 347
+rmse: 0.44323417811655463
+mse: 0.19645654
+pearson 0.8362133893040137
+spearman 0.7893379224077022
+ci 0.8330708661417323
+347
+Training on 1000 samples...
+Train epoch: 348 [0/1000 (0%)]	Loss: 0.013359
+Make prediction for 51 samples...
+epoch: 348
+rmse: 0.4261600139586248
+mse: 0.18161236
+pearson 0.8455422679774065
+spearman 0.7961714292465717
+ci 0.8322834645669291
+348
+Training on 1000 samples...
+Train epoch: 349 [0/1000 (0%)]	Loss: 0.009845
+Make prediction for 51 samples...
+epoch: 349
+rmse: 0.44572127135611467
+mse: 0.19866745
+pearson 0.8405024549197783
+spearman 0.7950400539421231
+ci 0.831496062992126
+349
+Training on 1000 samples...
+Train epoch: 350 [0/1000 (0%)]	Loss: 0.010946
+Make prediction for 51 samples...
+epoch: 350
+rmse: 0.4361679370503528
+mse: 0.19024247
+pearson 0.8370572391317495
+spearman 0.7957188791247922
+ci 0.8322834645669291
+350
+Training on 1000 samples...
+Train epoch: 351 [0/1000 (0%)]	Loss: 0.010776
+Make prediction for 51 samples...
+epoch: 351
+rmse: 0.464418072095618
+mse: 0.21568415
+pearson 0.8241756218324063
+spearman 0.7816898253496294
+ci 0.8244094488188977
+351
+Training on 1000 samples...
+Train epoch: 352 [0/1000 (0%)]	Loss: 0.012731
+Make prediction for 51 samples...
+epoch: 352
+rmse: 0.4434950028732538
+mse: 0.19668782
+pearson 0.8307593983773724
+spearman 0.7810110001669605
+ci 0.8236220472440945
+352
+Training on 1000 samples...
+Train epoch: 353 [0/1000 (0%)]	Loss: 0.012833
+Make prediction for 51 samples...
+epoch: 353
+rmse: 0.4488080344754229
+mse: 0.20142865
+pearson 0.8332083986144653
+spearman 0.7841335960072385
+ci 0.8220472440944881
+353
+Training on 1000 samples...
+Train epoch: 354 [0/1000 (0%)]	Loss: 0.013018
+Make prediction for 51 samples...
+epoch: 354
+rmse: 0.4376153793781127
+mse: 0.19150722
+pearson 0.836186234880589
+spearman 0.7958093891491481
+ci 0.8307086614173228
+354
+Training on 1000 samples...
+Train epoch: 355 [0/1000 (0%)]	Loss: 0.012415
+Make prediction for 51 samples...
+epoch: 355
+rmse: 0.45605450779259876
+mse: 0.20798571
+pearson 0.8269287571793987
+spearman 0.7849934412386195
+ci 0.8259842519685039
+355
+Training on 1000 samples...
+Train epoch: 356 [0/1000 (0%)]	Loss: 0.010283
+Make prediction for 51 samples...
+epoch: 356
+rmse: 0.44668551475817114
+mse: 0.19952795
+pearson 0.8300804093141405
+spearman 0.7863333006540215
+ci 0.8267716535433071
+356
+Training on 1000 samples...
+Train epoch: 357 [0/1000 (0%)]	Loss: 0.012501
+Make prediction for 51 samples...
+epoch: 357
+rmse: 0.45358956298577646
+mse: 0.20574349
+pearson 0.828611868757686
+spearman 0.7858532864700004
+ci 0.8259842519685039
+357
+Training on 1000 samples...
+Train epoch: 358 [0/1000 (0%)]	Loss: 0.012268
+Make prediction for 51 samples...
+epoch: 358
+rmse: 0.44109054685882937
+mse: 0.19456087
+pearson 0.8328895886123169
+spearman 0.7877087419692962
+ci 0.8267716535433071
+358
+Training on 1000 samples...
+Train epoch: 359 [0/1000 (0%)]	Loss: 0.012080
+Make prediction for 51 samples...
+epoch: 359
+rmse: 0.45683747446650524
+mse: 0.20870048
+pearson 0.8239888609181154
+spearman 0.7880255270545417
+ci 0.8267716535433071
+359
+Training on 1000 samples...
+Train epoch: 360 [0/1000 (0%)]	Loss: 0.011108
+Make prediction for 51 samples...
+epoch: 360
+rmse: 0.4533814493787601
+mse: 0.20555474
+pearson 0.8240896325476315
+spearman 0.7843146160559503
+ci 0.8236220472440945
+360
+Training on 1000 samples...
+Train epoch: 361 [0/1000 (0%)]	Loss: 0.009989
+Make prediction for 51 samples...
+epoch: 361
+rmse: 0.47036764448944784
+mse: 0.22124572
+pearson 0.8224343774221053
+spearman 0.7823686505322986
+ci 0.8188976377952756
+361
+Training on 1000 samples...
+Train epoch: 362 [0/1000 (0%)]	Loss: 0.012673
+Make prediction for 51 samples...
+epoch: 362
+rmse: 0.43822903857611994
+mse: 0.19204469
+pearson 0.8375045149603324
+spearman 0.7961714292465717
+ci 0.8267716535433071
+362
+Training on 1000 samples...
+Train epoch: 363 [0/1000 (0%)]	Loss: 0.013481
+Make prediction for 51 samples...
+epoch: 363
+rmse: 0.4467950536000746
+mse: 0.19962582
+pearson 0.8385254858276414
+spearman 0.7953568390273686
+ci 0.8307086614173228
+363
+Training on 1000 samples...
+Train epoch: 364 [0/1000 (0%)]	Loss: 0.012320
+Make prediction for 51 samples...
+epoch: 364
+rmse: 0.42637370825834375
+mse: 0.18179454
+pearson 0.8446768567889473
+spearman 0.7973028045510203
+ci 0.8322834645669291
+364
+Training on 1000 samples...
+Train epoch: 365 [0/1000 (0%)]	Loss: 0.012860
+Make prediction for 51 samples...
+epoch: 365
+rmse: 0.43609751974107747
+mse: 0.19018105
+pearson 0.8433064483258839
+spearman 0.7948590338934113
+ci 0.8307086614173228
+365
+Training on 1000 samples...
+Train epoch: 366 [0/1000 (0%)]	Loss: 0.009326
+Make prediction for 51 samples...
+epoch: 366
+rmse: 0.4207555966608518
+mse: 0.17703527
+pearson 0.8503108213616289
+spearman 0.8032130382889174
+ci 0.8338582677165355
+366
+Training on 1000 samples...
+Train epoch: 367 [0/1000 (0%)]	Loss: 0.009042
+Make prediction for 51 samples...
+epoch: 367
+rmse: 0.41876869658109467
+mse: 0.17536722
+pearson 0.8528486626982763
+spearman 0.8033669761828648
+ci 0.8346456692913385
+367
+Training on 1000 samples...
+Train epoch: 368 [0/1000 (0%)]	Loss: 0.010148
+Make prediction for 51 samples...
+epoch: 368
+rmse: 0.4447163221732459
+mse: 0.1977726
+pearson 0.8413893536145616
+spearman 0.7966239793683512
+ci 0.831496062992126
+368
+Training on 1000 samples...
+Train epoch: 369 [0/1000 (0%)]	Loss: 0.013742
+Make prediction for 51 samples...
+epoch: 369
+rmse: 0.4236967876523229
+mse: 0.17951897
+pearson 0.8450801230302757
+spearman 0.8091596177416416
+ci 0.8346456692913385
+369
+Training on 1000 samples...
+Train epoch: 370 [0/1000 (0%)]	Loss: 0.013324
+Make prediction for 51 samples...
+epoch: 370
+rmse: 0.44798196457105305
+mse: 0.20068784
+pearson 0.8410081903916026
+spearman 0.7891569023589903
+ci 0.8275590551181102
+370
+Training on 1000 samples...
+Train epoch: 371 [0/1000 (0%)]	Loss: 0.011674
+Make prediction for 51 samples...
+epoch: 371
+rmse: 0.417205148673633
+mse: 0.17406014
+pearson 0.8507485658483387
+spearman 0.7994750451355616
+ci 0.8307086614173228
+371
+Training on 1000 samples...
+Train epoch: 372 [0/1000 (0%)]	Loss: 0.011855
+Make prediction for 51 samples...
+epoch: 372
+rmse: 0.45550822942420427
+mse: 0.20748775
+pearson 0.8303560849772506
+spearman 0.7846314011411958
+ci 0.8212598425196851
+372
+Training on 1000 samples...
+Train epoch: 373 [0/1000 (0%)]	Loss: 0.011947
+Make prediction for 51 samples...
+epoch: 373
+rmse: 0.45949600598215196
+mse: 0.21113658
+pearson 0.8226783014689674
+spearman 0.7782051894119278
+ci 0.8188976377952756
+373
+Training on 1000 samples...
+Train epoch: 374 [0/1000 (0%)]	Loss: 0.011577
+Make prediction for 51 samples...
+epoch: 374
+rmse: 0.4386128678892978
+mse: 0.19238125
+pearson 0.8356786196257335
+spearman 0.7926867933088699
+ci 0.8275590551181102
+374
+Training on 1000 samples...
+Train epoch: 375 [0/1000 (0%)]	Loss: 0.012450
+Make prediction for 51 samples...
+epoch: 375
+rmse: 0.4357878185336595
+mse: 0.18991102
+pearson 0.8443723114767885
+spearman 0.7970584958804835
+ci 0.8322834645669291
+375
+Training on 1000 samples...
+Train epoch: 376 [0/1000 (0%)]	Loss: 0.014120
+Make prediction for 51 samples...
+epoch: 376
+rmse: 0.4243814749918986
+mse: 0.18009964
+pearson 0.8451582495259965
+spearman 0.8002715290495924
+ci 0.8338582677165355
+376
+Training on 1000 samples...
+Train epoch: 377 [0/1000 (0%)]	Loss: 0.011136
+Make prediction for 51 samples...
+epoch: 377
+rmse: 0.46335663656539205
+mse: 0.21469937
+pearson 0.822553313426991
+spearman 0.7782956994362836
+ci 0.8212598425196851
+377
+Training on 1000 samples...
+Train epoch: 378 [0/1000 (0%)]	Loss: 0.011138
+Make prediction for 51 samples...
+epoch: 378
+rmse: 0.4570304674973269
+mse: 0.20887685
+pearson 0.8252592558519319
+spearman 0.7814635502887398
+ci 0.8220472440944881
+378
+Training on 1000 samples...
+Train epoch: 379 [0/1000 (0%)]	Loss: 0.011330
+Make prediction for 51 samples...
+epoch: 379
+rmse: 0.4448682509904775
+mse: 0.19790776
+pearson 0.8365177283130557
+spearman 0.7932298534550053
+ci 0.8291338582677166
+379
+Training on 1000 samples...
+Train epoch: 380 [0/1000 (0%)]	Loss: 0.010909
+Make prediction for 51 samples...
+epoch: 380
+rmse: 0.40914873174503197
+mse: 0.16740268
+pearson 0.854639357506718
+spearman 0.8207901558713733
+ci 0.84251968503937
+380
+Training on 1000 samples...
+Train epoch: 381 [0/1000 (0%)]	Loss: 0.013949
+Make prediction for 51 samples...
+epoch: 381
+rmse: 0.43743058062619933
+mse: 0.19134551
+pearson 0.8469638564728762
+spearman 0.7997918302208071
+ci 0.8346456692913385
+381
+Training on 1000 samples...
+Train epoch: 382 [0/1000 (0%)]	Loss: 0.014147
+Make prediction for 51 samples...
+epoch: 382
+rmse: 0.4221997600500526
+mse: 0.17825264
+pearson 0.8476006997055471
+spearman 0.795519860278375
+ci 0.8307086614173228
+382
+Training on 1000 samples...
+Train epoch: 383 [0/1000 (0%)]	Loss: 0.009841
+Make prediction for 51 samples...
+epoch: 383
+rmse: 0.4325350130109172
+mse: 0.18708654
+pearson 0.8397537693146925
+spearman 0.7898178577529142
+ci 0.8251968503937008
+383
+Training on 1000 samples...
+Train epoch: 384 [0/1000 (0%)]	Loss: 0.010518
+Make prediction for 51 samples...
+epoch: 384
+rmse: 0.4350923809799052
+mse: 0.18930538
+pearson 0.8427212327562923
+spearman 0.7918722030896669
+ci 0.8283464566929134
+384
+Training on 1000 samples...
+Train epoch: 385 [0/1000 (0%)]	Loss: 0.011542
+Make prediction for 51 samples...
+epoch: 385
+rmse: 0.42270300107738445
+mse: 0.17867783
+pearson 0.8477210871878421
+spearman 0.8031677843006201
+ci 0.8354330708661417
+385
+Training on 1000 samples...
+Train epoch: 386 [0/1000 (0%)]	Loss: 0.009469
+Make prediction for 51 samples...
+epoch: 386
+rmse: 0.42978634130951177
+mse: 0.1847163
+pearson 0.8423497125850492
+spearman 0.8032130382889174
+ci 0.8338582677165355
+386
+Training on 1000 samples...
+Train epoch: 387 [0/1000 (0%)]	Loss: 0.010981
+Make prediction for 51 samples...
+epoch: 387
+rmse: 0.44468316564639104
+mse: 0.19774312
+pearson 0.8327776515585419
+spearman 0.7917637792496985
+ci 0.8283464566929134
+387
+Training on 1000 samples...
+Train epoch: 388 [0/1000 (0%)]	Loss: 0.011278
+Make prediction for 51 samples...
+epoch: 388
+rmse: 0.45007779455611485
+mse: 0.20257002
+pearson 0.8278791691765794
+spearman 0.7807847251060707
+ci 0.8236220472440945
+388
+Training on 1000 samples...
+Train epoch: 389 [0/1000 (0%)]	Loss: 0.010522
+Make prediction for 51 samples...
+epoch: 389
+rmse: 0.4458163238857687
+mse: 0.1987522
+pearson 0.8313292314616921
+spearman 0.7814911239062096
+ci 0.8228346456692913
+389
+Training on 1000 samples...
+Train epoch: 390 [0/1000 (0%)]	Loss: 0.010347
+Make prediction for 51 samples...
+epoch: 390
+rmse: 0.4383022072145299
+mse: 0.19210882
+pearson 0.8387677719096576
+spearman 0.7864416016283137
+ci 0.8259842519685039
+390
+Training on 1000 samples...
+Train epoch: 391 [0/1000 (0%)]	Loss: 0.009158
+Make prediction for 51 samples...
+epoch: 391
+rmse: 0.44126586031844167
+mse: 0.19471556
+pearson 0.8379318711024725
+spearman 0.7892474123833463
+ci 0.8291338582677166
+391
+Training on 1000 samples...
+Train epoch: 392 [0/1000 (0%)]	Loss: 0.010989
+Make prediction for 51 samples...
+epoch: 392
+rmse: 0.4433745327009519
+mse: 0.19658098
+pearson 0.8327908668876186
+spearman 0.7870751717988049
+ci 0.8244094488188977
+392
+Training on 1000 samples...
+Train epoch: 393 [0/1000 (0%)]	Loss: 0.010311
+Make prediction for 51 samples...
+epoch: 393
+rmse: 0.46034663525073966
+mse: 0.21191902
+pearson 0.8260021284958144
+spearman 0.7849029312142636
+ci 0.8251968503937008
+393
+Training on 1000 samples...
+Train epoch: 394 [0/1000 (0%)]	Loss: 0.009989
+Make prediction for 51 samples...
+epoch: 394
+rmse: 0.4464522549614025
+mse: 0.19931962
+pearson 0.8315941089049903
+spearman 0.7871931264316705
+ci 0.8251968503937008
+394
+Training on 1000 samples...
+Train epoch: 395 [0/1000 (0%)]	Loss: 0.010776
+Make prediction for 51 samples...
+epoch: 395
+rmse: 0.4449692792146543
+mse: 0.19799766
+pearson 0.8362645017753485
+spearman 0.7930488334062935
+ci 0.8275590551181102
+395
+Training on 1000 samples...
+Train epoch: 396 [0/1000 (0%)]	Loss: 0.010215
+Make prediction for 51 samples...
+epoch: 396
+rmse: 0.4412276151290515
+mse: 0.19468181
+pearson 0.8379465112340668
+spearman 0.7901072576147271
+ci 0.8283464566929134
+396
+Training on 1000 samples...
+Train epoch: 397 [0/1000 (0%)]	Loss: 0.009852
+Make prediction for 51 samples...
+epoch: 397
+rmse: 0.4377742486780963
+mse: 0.1916463
+pearson 0.8376877198000084
+spearman 0.7980268847458674
+ci 0.8307086614173228
+397
+Training on 1000 samples...
+Train epoch: 398 [0/1000 (0%)]	Loss: 0.010939
+Make prediction for 51 samples...
+epoch: 398
+rmse: 0.4303209490698029
+mse: 0.18517612
+pearson 0.8407298375299805
+spearman 0.7992487700746719
+ci 0.8322834645669291
+398
+Training on 1000 samples...
+Train epoch: 399 [0/1000 (0%)]	Loss: 0.009507
+Make prediction for 51 samples...
+epoch: 399
+rmse: 0.439545024163734
+mse: 0.19319983
+pearson 0.836531360912605
+spearman 0.7954473490517245
+ci 0.831496062992126
+399
+Training on 1000 samples...
+Train epoch: 400 [0/1000 (0%)]	Loss: 0.011163
+Make prediction for 51 samples...
+epoch: 400
+rmse: 0.4411985702098512
+mse: 0.19465618
+pearson 0.8355619092578781
+spearman 0.790197767639083
+ci 0.8291338582677166
+400
+Training on 1000 samples...
+Train epoch: 401 [0/1000 (0%)]	Loss: 0.011000
+Make prediction for 51 samples...
+epoch: 401
+rmse: 0.4352607129108035
+mse: 0.18945189
+pearson 0.8394665436687709
+spearman 0.7955651142666724
+ci 0.8307086614173228
+401
+Training on 1000 samples...
+Train epoch: 402 [0/1000 (0%)]	Loss: 0.009124
+Make prediction for 51 samples...
+epoch: 402
+rmse: 0.44698766541904267
+mse: 0.19979797
+pearson 0.8362883652426372
+spearman 0.7900167475903712
+ci 0.8267716535433071
+402
+Training on 1000 samples...
+Train epoch: 403 [0/1000 (0%)]	Loss: 0.010421
+Make prediction for 51 samples...
+epoch: 403
+rmse: 0.4405089854645696
+mse: 0.19404817
+pearson 0.8345714261201367
+spearman 0.786939406762271
+ci 0.8267716535433071
+403
+Training on 1000 samples...
+Train epoch: 404 [0/1000 (0%)]	Loss: 0.010184
+Make prediction for 51 samples...
+epoch: 404
+rmse: 0.4634950771564171
+mse: 0.21482769
+pearson 0.8243669106859846
+spearman 0.7821876304835869
+ci 0.8220472440944881
+404
+Training on 1000 samples...
+Train epoch: 405 [0/1000 (0%)]	Loss: 0.010623
+Make prediction for 51 samples...
+epoch: 405
+rmse: 0.4458075331712472
+mse: 0.19874436
+pearson 0.8294602119343284
+spearman 0.7838168109219928
+ci 0.8236220472440945
+405
+Training on 1000 samples...
+Train epoch: 406 [0/1000 (0%)]	Loss: 0.011191
+Make prediction for 51 samples...
+epoch: 406
+rmse: 0.4533495511047827
+mse: 0.20552582
+pearson 0.8258357511984362
+spearman 0.7836357908732811
+ci 0.8236220472440945
+406
+Training on 1000 samples...
+Train epoch: 407 [0/1000 (0%)]	Loss: 0.009227
+Make prediction for 51 samples...
+epoch: 407
+rmse: 0.4587612989785629
+mse: 0.21046193
+pearson 0.8236877682342677
+spearman 0.779608094789444
+ci 0.8236220472440945
+407
+Training on 1000 samples...
+Train epoch: 408 [0/1000 (0%)]	Loss: 0.008580
+Make prediction for 51 samples...
+epoch: 408
+rmse: 0.45659837029638706
+mse: 0.20848207
+pearson 0.824751275509881
+spearman 0.7772095791440131
+ci 0.8204724409448819
+408
+Training on 1000 samples...
+Train epoch: 409 [0/1000 (0%)]	Loss: 0.010639
+Make prediction for 51 samples...
+epoch: 409
+rmse: 0.46145358531682107
+mse: 0.21293941
+pearson 0.8229739315719677
+spearman 0.7792007996798426
+ci 0.8236220472440945
+409
+Training on 1000 samples...
+Train epoch: 410 [0/1000 (0%)]	Loss: 0.009359
+Make prediction for 51 samples...
+epoch: 410
+rmse: 0.45237757436099396
+mse: 0.20464547
+pearson 0.8259912402570877
+spearman 0.784495636104662
+ci 0.8267716535433071
+410
+Training on 1000 samples...
+Train epoch: 411 [0/1000 (0%)]	Loss: 0.010665
+Make prediction for 51 samples...
+epoch: 411
+rmse: 0.44805330772404955
+mse: 0.20075177
+pearson 0.8302772434779738
+spearman 0.7883423121397873
+ci 0.8283464566929134
+411
+Training on 1000 samples...
+Train epoch: 412 [0/1000 (0%)]	Loss: 0.009107
+Make prediction for 51 samples...
+epoch: 412
+rmse: 0.44250478178878155
+mse: 0.19581048
+pearson 0.8350709387516964
+spearman 0.7867131317013812
+ci 0.8275590551181102
+412
+Training on 1000 samples...
+Train epoch: 413 [0/1000 (0%)]	Loss: 0.010465
+Make prediction for 51 samples...
+epoch: 413
+rmse: 0.4443864730770303
+mse: 0.19747934
+pearson 0.8331794672454206
+spearman 0.792732048321048
+ci 0.8307086614173228
+413
+Training on 1000 samples...
+Train epoch: 414 [0/1000 (0%)]	Loss: 0.011388
+Make prediction for 51 samples...
+epoch: 414
+rmse: 0.4462167025947312
+mse: 0.19910935
+pearson 0.8315252858798399
+spearman 0.7902882776634388
+ci 0.8322834645669291
+414
+Training on 1000 samples...
+Train epoch: 415 [0/1000 (0%)]	Loss: 0.009546
+Make prediction for 51 samples...
+epoch: 415
+rmse: 0.44894855500420033
+mse: 0.2015548
+pearson 0.832836414361203
+spearman 0.7916006730165994
+ci 0.8307086614173228
+415
+Training on 1000 samples...
+Train epoch: 416 [0/1000 (0%)]	Loss: 0.011301
+Make prediction for 51 samples...
+epoch: 416
+rmse: 0.4265949278861259
+mse: 0.18198323
+pearson 0.8428774551617607
+spearman 0.7977100996606218
+ci 0.831496062992126
+416
+Training on 1000 samples...
+Train epoch: 417 [0/1000 (0%)]	Loss: 0.009666
+Make prediction for 51 samples...
+epoch: 417
+rmse: 0.4503582475443838
+mse: 0.20282255
+pearson 0.8323068717850639
+spearman 0.7863333006540215
+ci 0.8259842519685039
+417
+Training on 1000 samples...
+Train epoch: 418 [0/1000 (0%)]	Loss: 0.011307
+Make prediction for 51 samples...
+epoch: 418
+rmse: 0.44173176333699865
+mse: 0.19512695
+pearson 0.8332660435952329
+spearman 0.7980268847458674
+ci 0.831496062992126
+418
+Training on 1000 samples...
+Train epoch: 419 [0/1000 (0%)]	Loss: 0.009475
+Make prediction for 51 samples...
+epoch: 419
+rmse: 0.44742155064071
+mse: 0.20018604
+pearson 0.8297211222607572
+spearman 0.787147872443373
+ci 0.8251968503937008
+419
+Training on 1000 samples...
+Train epoch: 420 [0/1000 (0%)]	Loss: 0.009874
+Make prediction for 51 samples...
+epoch: 420
+rmse: 0.44573955804893206
+mse: 0.19868375
+pearson 0.8318212174089131
+spearman 0.7944969937959877
+ci 0.8275590551181102
+420
+Training on 1000 samples...
+Train epoch: 421 [0/1000 (0%)]	Loss: 0.011191
+Make prediction for 51 samples...
+epoch: 421
+rmse: 0.42774430354888554
+mse: 0.18296519
+pearson 0.8415991922631344
+spearman 0.7950220664071047
+ci 0.8307086614173228
+421
+Training on 1000 samples...
+Train epoch: 422 [0/1000 (0%)]	Loss: 0.009927
+Make prediction for 51 samples...
+epoch: 422
+rmse: 0.4379504303327864
+mse: 0.19180058
+pearson 0.8395462694665499
+spearman 0.7969407644535967
+ci 0.8330708661417323
+422
+Training on 1000 samples...
+Train epoch: 423 [0/1000 (0%)]	Loss: 0.009351
+Make prediction for 51 samples...
+epoch: 423
+rmse: 0.4316746452353945
+mse: 0.186343
+pearson 0.8406905386695117
+spearman 0.7862153265674239
+ci 0.8259842519685039
+423
+Training on 1000 samples...
+Train epoch: 424 [0/1000 (0%)]	Loss: 0.010446
+Make prediction for 51 samples...
+epoch: 424
+rmse: 0.4512262352896447
+mse: 0.20360512
+pearson 0.829640737279187
+spearman 0.7866226216770253
+ci 0.8291338582677166
+424
+Training on 1000 samples...
+Train epoch: 425 [0/1000 (0%)]	Loss: 0.011179
+Make prediction for 51 samples...
+epoch: 425
+rmse: 0.4428778903359747
+mse: 0.19614083
+pearson 0.8313325554678261
+spearman 0.7930940884184714
+ci 0.8307086614173228
+425
+Training on 1000 samples...
+Train epoch: 426 [0/1000 (0%)]	Loss: 0.010064
+Make prediction for 51 samples...
+epoch: 426
+rmse: 0.46298968385919653
+mse: 0.21435945
+pearson 0.8227482537090508
+spearman 0.7849029312142636
+ci 0.8259842519685039
+426
+Training on 1000 samples...
+Train epoch: 427 [0/1000 (0%)]	Loss: 0.010988
+Make prediction for 51 samples...
+epoch: 427
+rmse: 0.4640977306671734
+mse: 0.2153867
+pearson 0.819440015654133
+spearman 0.779653349801622
+ci 0.8212598425196851
+427
+Training on 1000 samples...
+Train epoch: 428 [0/1000 (0%)]	Loss: 0.011698
+Make prediction for 51 samples...
+epoch: 428
+rmse: 0.4650221570437624
+mse: 0.2162456
+pearson 0.8193721662489467
+spearman 0.7848124211899078
+ci 0.8228346456692913
+428
+Training on 1000 samples...
+Train epoch: 429 [0/1000 (0%)]	Loss: 0.009937
+Make prediction for 51 samples...
+epoch: 429
+rmse: 0.4567260048884189
+mse: 0.20859864
+pearson 0.8217928473700665
+spearman 0.7785672295093514
+ci 0.8212598425196851
+429
+Training on 1000 samples...
+Train epoch: 430 [0/1000 (0%)]	Loss: 0.011144
+Make prediction for 51 samples...
+epoch: 430
+rmse: 0.46366294781543926
+mse: 0.21498333
+pearson 0.8199332488608111
+spearman 0.7804226850086472
+ci 0.8220472440944881
+430
+Training on 1000 samples...
+Train epoch: 431 [0/1000 (0%)]	Loss: 0.011079
+Make prediction for 51 samples...
+epoch: 431
+rmse: 0.4585266265615248
+mse: 0.21024667
+pearson 0.8225442040583991
+spearman 0.7813730402643838
+ci 0.8220472440944881
+431
+Training on 1000 samples...
+Train epoch: 432 [0/1000 (0%)]	Loss: 0.009256
+Make prediction for 51 samples...
+epoch: 432
+rmse: 0.46450809573744833
+mse: 0.21576777
+pearson 0.8211266753259923
+spearman 0.7818531558125882
+ci 0.8244094488188977
+432
+Training on 1000 samples...
+Train epoch: 433 [0/1000 (0%)]	Loss: 0.010877
+Make prediction for 51 samples...
+epoch: 433
+rmse: 0.454658216339648
+mse: 0.2067141
+pearson 0.8242167318904062
+spearman 0.7815993153252736
+ci 0.8236220472440945
+433
+Training on 1000 samples...
+Train epoch: 434 [0/1000 (0%)]	Loss: 0.010157
+Make prediction for 51 samples...
+epoch: 434
+rmse: 0.4692910886140763
+mse: 0.22023413
+pearson 0.8169974708670873
+spearman 0.7834095158123914
+ci 0.8259842519685039
+434
+Training on 1000 samples...
+Train epoch: 435 [0/1000 (0%)]	Loss: 0.008753
+Make prediction for 51 samples...
+epoch: 435
+rmse: 0.46217238963137913
+mse: 0.21360332
+pearson 0.8154173962100528
+spearman 0.7735439231575997
+ci 0.8188976377952756
+435
+Training on 1000 samples...
+Train epoch: 436 [0/1000 (0%)]	Loss: 0.010994
+Make prediction for 51 samples...
+epoch: 436
+rmse: 0.45626257787637803
+mse: 0.20817554
+pearson 0.8222638504924269
+spearman 0.7857175214334665
+ci 0.8244094488188977
+436
+Training on 1000 samples...
+Train epoch: 437 [0/1000 (0%)]	Loss: 0.011236
+Make prediction for 51 samples...
+epoch: 437
+rmse: 0.4514865851030517
+mse: 0.20384014
+pearson 0.8278986904901552
+spearman 0.7831379857393238
+ci 0.8212598425196851
+437
+Training on 1000 samples...
+Train epoch: 438 [0/1000 (0%)]	Loss: 0.010195
+Make prediction for 51 samples...
+epoch: 438
+rmse: 0.4414832799084822
+mse: 0.19490749
+pearson 0.8325963641474318
+spearman 0.7909492074603469
+ci 0.8244094488188977
+438
+Training on 1000 samples...
+Train epoch: 439 [0/1000 (0%)]	Loss: 0.010034
+Make prediction for 51 samples...
+epoch: 439
+rmse: 0.47837684331558217
+mse: 0.2288444
+pearson 0.8174962235970865
+spearman 0.7775263642292587
+ci 0.8212598425196851
+439
+Training on 1000 samples...
+Train epoch: 440 [0/1000 (0%)]	Loss: 0.012702
+Make prediction for 51 samples...
+epoch: 440
+rmse: 0.44970577210820606
+mse: 0.20223528
+pearson 0.8228631952202177
+spearman 0.775670908729963
+ci 0.8181102362204724
+440
+Training on 1000 samples...
+Train epoch: 441 [0/1000 (0%)]	Loss: 0.009971
+Make prediction for 51 samples...
+epoch: 441
+rmse: 0.47607288849473606
+mse: 0.2266454
+pearson 0.8181375334598854
+spearman 0.7768475390465894
+ci 0.8212598425196851
+441
+Training on 1000 samples...
+Train epoch: 442 [0/1000 (0%)]	Loss: 0.012136
+Make prediction for 51 samples...
+epoch: 442
+rmse: 0.43782273377922365
+mse: 0.19168875
+pearson 0.8366205191698255
+spearman 0.7854912463725767
+ci 0.8244094488188977
+442
+Training on 1000 samples...
+Train epoch: 443 [0/1000 (0%)]	Loss: 0.010860
+Make prediction for 51 samples...
+epoch: 443
+rmse: 0.44604333502492943
+mse: 0.19895466
+pearson 0.8349740772655316
+spearman 0.7945422488081656
+ci 0.8322834645669291
+443
+Training on 1000 samples...
+Train epoch: 444 [0/1000 (0%)]	Loss: 0.010192
+Make prediction for 51 samples...
+epoch: 444
+rmse: 0.44487952214145565
+mse: 0.19791779
+pearson 0.8332787396759974
+spearman 0.7878266822678328
+ci 0.8275590551181102
+444
+Training on 1000 samples...
+Train epoch: 445 [0/1000 (0%)]	Loss: 0.008101
+Make prediction for 51 samples...
+epoch: 445
+rmse: 0.458909893079876
+mse: 0.21059829
+pearson 0.8285920305040527
+spearman 0.7861248165430681
+ci 0.8275590551181102
+445
+Training on 1000 samples...
+Train epoch: 446 [0/1000 (0%)]	Loss: 0.008769
+Make prediction for 51 samples...
+epoch: 446
+rmse: 0.4370089056681021
+mse: 0.19097678
+pearson 0.8374297150191699
+spearman 0.7849481862264415
+ci 0.8244094488188977
+446
+Training on 1000 samples...
+Train epoch: 447 [0/1000 (0%)]	Loss: 0.008273
+Make prediction for 51 samples...
+epoch: 447
+rmse: 0.45346316511421547
+mse: 0.20562884
+pearson 0.8311683770820077
+spearman 0.7696067370981184
+ci 0.8165354330708662
+447
+Training on 1000 samples...
+Train epoch: 448 [0/1000 (0%)]	Loss: 0.009730
+Make prediction for 51 samples...
+epoch: 448
+rmse: 0.4546974456328606
+mse: 0.20674977
+pearson 0.8268441063273886
+spearman 0.7776621292657925
+ci 0.8212598425196851
+448
+Training on 1000 samples...
+Train epoch: 449 [0/1000 (0%)]	Loss: 0.009195
+Make prediction for 51 samples...
+epoch: 449
+rmse: 0.44943122814408487
+mse: 0.20198843
+pearson 0.826197717623011
+spearman 0.7834547708245694
+ci 0.8220472440944881
+449
+Training on 1000 samples...
+Train epoch: 450 [0/1000 (0%)]	Loss: 0.009610
+Make prediction for 51 samples...
+epoch: 450
+rmse: 0.4720709305531532
+mse: 0.22285096
+pearson 0.817403978025947
+spearman 0.7833190057880355
+ci 0.8259842519685039
+450
+Training on 1000 samples...
+Train epoch: 451 [0/1000 (0%)]	Loss: 0.011585
+Make prediction for 51 samples...
+epoch: 451
+rmse: 0.44289987758648564
+mse: 0.1961603
+pearson 0.8293557759210186
+spearman 0.7848576762020856
+ci 0.8251968503937008
+451
+Training on 1000 samples...
+Train epoch: 452 [0/1000 (0%)]	Loss: 0.011150
+Make prediction for 51 samples...
+epoch: 452
+rmse: 0.4620534835641592
+mse: 0.21349342
+pearson 0.8262275617309618
+spearman 0.7851744612873311
+ci 0.8299212598425196
+452
+Training on 1000 samples...
+Train epoch: 453 [0/1000 (0%)]	Loss: 0.010928
+Make prediction for 51 samples...
+epoch: 453
+rmse: 0.43521459588961936
+mse: 0.18941174
+pearson 0.8376310478946525
+spearman 0.7885233321884991
+ci 0.8275590551181102
+453
+Training on 1000 samples...
+Train epoch: 454 [0/1000 (0%)]	Loss: 0.010792
+Make prediction for 51 samples...
+epoch: 454
+rmse: 0.4511956708173251
+mse: 0.20357753
+pearson 0.8302295211304901
+spearman 0.7802869199721133
+ci 0.8236220472440945
+454
+Training on 1000 samples...
+Train epoch: 455 [0/1000 (0%)]	Loss: 0.011964
+Make prediction for 51 samples...
+epoch: 455
+rmse: 0.45415186449596545
+mse: 0.20625392
+pearson 0.8246200402709739
+spearman 0.7761687138639203
+ci 0.8228346456692913
+455
+Training on 1000 samples...
+Train epoch: 456 [0/1000 (0%)]	Loss: 0.010701
+Make prediction for 51 samples...
+epoch: 456
+rmse: 0.4531158742314568
+mse: 0.205314
+pearson 0.8222778343887305
+spearman 0.7752183586081836
+ci 0.8212598425196851
+456
+Training on 1000 samples...
+Train epoch: 457 [0/1000 (0%)]	Loss: 0.008117
+Make prediction for 51 samples...
+epoch: 457
+rmse: 0.4494031776326915
+mse: 0.20196322
+pearson 0.8287491762608981
+spearman 0.7790197796311308
+ci 0.8212598425196851
+457
+Training on 1000 samples...
+Train epoch: 458 [0/1000 (0%)]	Loss: 0.011742
+Make prediction for 51 samples...
+epoch: 458
+rmse: 0.43670437197142276
+mse: 0.19071071
+pearson 0.8362770557142308
+spearman 0.7859437964943563
+ci 0.8220472440944881
+458
+Training on 1000 samples...
+Train epoch: 459 [0/1000 (0%)]	Loss: 0.007864
+Make prediction for 51 samples...
+epoch: 459
+rmse: 0.44998433761360745
+mse: 0.2024859
+pearson 0.8283171928695005
+spearman 0.7732723930845319
+ci 0.815748031496063
+459
+Training on 1000 samples...
+Train epoch: 460 [0/1000 (0%)]	Loss: 0.009321
+Make prediction for 51 samples...
+epoch: 460
+rmse: 0.4566632770177012
+mse: 0.20854135
+pearson 0.823016836392423
+spearman 0.7797438598259779
+ci 0.8181102362204724
+460
+Training on 1000 samples...
+Train epoch: 461 [0/1000 (0%)]	Loss: 0.009162
+Make prediction for 51 samples...
+epoch: 461
+rmse: 0.45096775077712825
+mse: 0.20337191
+pearson 0.8254118730647263
+spearman 0.7868488967379151
+ci 0.8196850393700787
+461
+Training on 1000 samples...
+Train epoch: 462 [0/1000 (0%)]	Loss: 0.008254
+Make prediction for 51 samples...
+epoch: 462
+rmse: 0.45145833223017523
+mse: 0.20381463
+pearson 0.8303722355676106
+spearman 0.7899714925781932
+ci 0.8251968503937008
+462
+Training on 1000 samples...
+Train epoch: 463 [0/1000 (0%)]	Loss: 0.008825
+Make prediction for 51 samples...
+epoch: 463
+rmse: 0.449693793517205
+mse: 0.20222451
+pearson 0.8325645057200083
+spearman 0.7851744612873311
+ci 0.8236220472440945
+463
+Training on 1000 samples...
+Train epoch: 464 [0/1000 (0%)]	Loss: 0.010651
+Make prediction for 51 samples...
+epoch: 464
+rmse: 0.4518151919302809
+mse: 0.20413697
+pearson 0.8260371805301799
+spearman 0.7845231411221293
+ci 0.8259842519685039
+464
+Training on 1000 samples...
+Train epoch: 465 [0/1000 (0%)]	Loss: 0.010002
+Make prediction for 51 samples...
+epoch: 465
+rmse: 0.46366421726141116
+mse: 0.2149845
+pearson 0.818947484043295
+spearman 0.7807847251060707
+ci 0.8212598425196851
+465
+Training on 1000 samples...
+Train epoch: 466 [0/1000 (0%)]	Loss: 0.007628
+Make prediction for 51 samples...
+epoch: 466
+rmse: 0.4582687317952527
+mse: 0.21001023
+pearson 0.8231309974575027
+spearman 0.7827759456419002
+ci 0.8236220472440945
+466
+Training on 1000 samples...
+Train epoch: 467 [0/1000 (0%)]	Loss: 0.009449
+Make prediction for 51 samples...
+epoch: 467
+rmse: 0.4486190275632798
+mse: 0.20125903
+pearson 0.830193696157819
+spearman 0.7948590338934113
+ci 0.8267716535433071
+467
+Training on 1000 samples...
+Train epoch: 468 [0/1000 (0%)]	Loss: 0.009020
+Make prediction for 51 samples...
+epoch: 468
+rmse: 0.4535432562349728
+mse: 0.20570149
+pearson 0.8283325566572857
+spearman 0.7854007363482209
+ci 0.8204724409448819
+468
+Training on 1000 samples...
+Train epoch: 469 [0/1000 (0%)]	Loss: 0.009116
+Make prediction for 51 samples...
+epoch: 469
+rmse: 0.4725216760658836
+mse: 0.22327673
+pearson 0.8137406099110314
+spearman 0.76517174590468
+ci 0.8102362204724409
+469
+Training on 1000 samples...
+Train epoch: 470 [0/1000 (0%)]	Loss: 0.009500
+Make prediction for 51 samples...
+epoch: 470
+rmse: 0.4849049683750781
+mse: 0.23513283
+pearson 0.8031120144936095
+spearman 0.7532696777018806
+ci 0.8047244094488188
+470
+Training on 1000 samples...
+Train epoch: 471 [0/1000 (0%)]	Loss: 0.010042
+Make prediction for 51 samples...
+epoch: 471
+rmse: 0.4602630497772687
+mse: 0.21184207
+pearson 0.8171852432193455
+spearman 0.7758971837908528
+ci 0.8204724409448819
+471
+Training on 1000 samples...
+Train epoch: 472 [0/1000 (0%)]	Loss: 0.008356
+Make prediction for 51 samples...
+epoch: 472
+rmse: 0.457720082560079
+mse: 0.20950767
+pearson 0.8248686333359633
+spearman 0.7803321749842912
+ci 0.8204724409448819
+472
+Training on 1000 samples...
+Train epoch: 473 [0/1000 (0%)]	Loss: 0.009254
+Make prediction for 51 samples...
+epoch: 473
+rmse: 0.4413362970876916
+mse: 0.19477773
+pearson 0.8317098889735247
+spearman 0.7847219111655518
+ci 0.8220472440944881
+473
+Training on 1000 samples...
+Train epoch: 474 [0/1000 (0%)]	Loss: 0.010182
+Make prediction for 51 samples...
+epoch: 474
+rmse: 0.4617913468245722
+mse: 0.21325125
+pearson 0.8222096097877581
+spearman 0.7741147238137485
+ci 0.8188976377952756
+474
+Training on 1000 samples...
+Train epoch: 475 [0/1000 (0%)]	Loss: 0.009057
+Make prediction for 51 samples...
+epoch: 475
+rmse: 0.4510003957154595
+mse: 0.20340136
+pearson 0.8277142206591114
+spearman 0.7849029312142636
+ci 0.8267716535433071
+475
+Training on 1000 samples...
+Train epoch: 476 [0/1000 (0%)]	Loss: 0.007960
+Make prediction for 51 samples...
+epoch: 476
+rmse: 0.449891126230777
+mse: 0.20240203
+pearson 0.8306022952214284
+spearman 0.7824591605566547
+ci 0.8244094488188977
+476
+Training on 1000 samples...
+Train epoch: 477 [0/1000 (0%)]	Loss: 0.007152
+Make prediction for 51 samples...
+epoch: 477
+rmse: 0.4483268175868852
+mse: /home/wu/anaconda3/envs/RTMscore_nn/lib/python3.8/site-packages/torch_geometric/deprecation.py:26: UserWarning: 'data.DataLoader' is deprecated, use 'loader.DataLoader' instead
+  warnings.warn(out)
+0.20099694
+pearson 0.8340257916929653
+spearman 0.7867583867135592
+ci 0.8244094488188977
+477
+Training on 1000 samples...
+Train epoch: 478 [0/1000 (0%)]	Loss: 0.009440
+Make prediction for 51 samples...
+epoch: 478
+rmse: 0.44528298531148036
+mse: 0.19827694
+pearson 0.832679295644039
+spearman 0.789636841799725
+ci 0.8267716535433071
+478
+Training on 1000 samples...
+Train epoch: 479 [0/1000 (0%)]	Loss: 0.008988
+Make prediction for 51 samples...
+epoch: 479
+rmse: 0.45615271550112135
+mse: 0.2080753
+pearson 0.8248121975189259
+spearman 0.7768475390465894
+ci 0.8173228346456692
+479
+Training on 1000 samples...
+Train epoch: 480 [0/1000 (0%)]	Loss: 0.008918
+Make prediction for 51 samples...
+epoch: 480
+rmse: 0.46816808820576344
+mse: 0.21918136
+pearson 0.8171015517276293
+spearman 0.7705570923538553
+ci 0.8149606299212598
+480
+Training on 1000 samples...
+Train epoch: 481 [0/1000 (0%)]	Loss: 0.010754
+Make prediction for 51 samples...
+epoch: 481
+rmse: 0.4684728120774422
+mse: 0.21946678
+pearson 0.8155744846002283
+spearman 0.7679775566597126
+ci 0.8141732283464567
+481
+Training on 1000 samples...
+Train epoch: 482 [0/1000 (0%)]	Loss: 0.008696
+Make prediction for 51 samples...
+epoch: 482
+rmse: 0.45767531699396075
+mse: 0.2094667
+pearson 0.8220087172418993
+spearman 0.777345344180547
+ci 0.8188976377952756
+482
+Training on 1000 samples...
+Train epoch: 483 [0/1000 (0%)]	Loss: 0.008059
+Make prediction for 51 samples...
+epoch: 483
+rmse: 0.46408387594087985
+mse: 0.21537384
+pearson 0.8220128377712704
+spearman 0.7803321749842912
+ci 0.8196850393700787
+483
+Training on 1000 samples...
+Train epoch: 484 [0/1000 (0%)]	Loss: 0.009533
+Make prediction for 51 samples...
+epoch: 484
+rmse: 0.4666273216140754
+mse: 0.21774106
+pearson 0.8179385557788056
+spearman 0.764221390648943
+ci 0.8133858267716535
+484
+Training on 1000 samples...
+Train epoch: 485 [0/1000 (0%)]	Loss: 0.008765
+Make prediction for 51 samples...
+epoch: 485
+rmse: 0.4672180255116029
+mse: 0.21829268
+pearson 0.8187965968124192
+spearman 0.7670272014039756
+ci 0.8133858267716535
+485
+Training on 1000 samples...
+Train epoch: 486 [0/1000 (0%)]	Loss: 0.010890
+Make prediction for 51 samples...
+epoch: 486
+rmse: 0.4419790281999371
+mse: 0.19534546
+pearson 0.8323609582843307
+spearman 0.7838620659341708
+ci 0.8196850393700787
+486
+Training on 1000 samples...
+Train epoch: 487 [0/1000 (0%)]	Loss: 0.010500
+Make prediction for 51 samples...
+epoch: 487
+rmse: 0.4623788185137271
+mse: 0.21379417
+pearson 0.8213866091546614
+spearman 0.7780241693632161
+ci 0.8196850393700787
+487
+Training on 1000 samples...
+Train epoch: 488 [0/1000 (0%)]	Loss: 0.009517
+Make prediction for 51 samples...
+epoch: 488
+rmse: 0.4457753269244633
+mse: 0.19871564
+pearson 0.826438855185756
+spearman 0.7758343753690461
+ci 0.815748031496063
+488
+Training on 1000 samples...
+Train epoch: 489 [0/1000 (0%)]	Loss: 0.009132
+Make prediction for 51 samples...
+epoch: 489
+rmse: 0.4794580482402942
+mse: 0.22988002
+pearson 0.8160073032047078
+spearman 0.7741322383159128
+ci 0.8165354330708662
+489
+Training on 1000 samples...
+Train epoch: 490 [0/1000 (0%)]	Loss: 0.012187
+Make prediction for 51 samples...
+epoch: 490
+rmse: 0.44162140725318566
+mse: 0.19502947
+pearson 0.8312774963239483
+spearman 0.7782780907371006
+ci 0.8188976377952756
+490
+Training on 1000 samples...
+Train epoch: 491 [0/1000 (0%)]	Loss: 0.008140
+Make prediction for 51 samples...
+epoch: 491
+rmse: 0.448200764123724
+mse: 0.20088392
+pearson 0.8303546512182512
+spearman 0.7785672295093514
+ci 0.8196850393700787
+491
+Training on 1000 samples...
+Train epoch: 492 [0/1000 (0%)]	Loss: 0.009219
+Make prediction for 51 samples...
+epoch: 492
+rmse: 0.45202163664969175
+mse: 0.20432356
+pearson 0.8306766554761023
+spearman 0.7834547708245694
+ci 0.8204724409448819
+492
+Training on 1000 samples...
+Train epoch: 493 [0/1000 (0%)]	Loss: 0.008130
+Make prediction for 51 samples...
+epoch: 493
+rmse: 0.4422812945365142
+mse: 0.19561274
+pearson 0.8322048548305848
+spearman 0.7809204901426045
+ci 0.8188976377952756
+493
+Training on 1000 samples...
+Train epoch: 494 [0/1000 (0%)]	Loss: 0.009424
+Make prediction for 51 samples...
+epoch: 494
+rmse: 0.4553637120096276
+mse: 0.20735611
+pearson 0.826729455872743
+spearman 0.7711906625243464
+ci 0.815748031496063
+494
+Training on 1000 samples...
+Train epoch: 495 [0/1000 (0%)]	Loss: 0.009289
+Make prediction for 51 samples...
+epoch: 495
+rmse: 0.4611556458303484
+mse: 0.21266453
+pearson 0.8215624394269323
+spearman 0.7733906600009915
+ci 0.815748031496063
+495
+Training on 1000 samples...
+Train epoch: 496 [0/1000 (0%)]	Loss: 0.010835
+Make prediction for 51 samples...
+epoch: 496
+rmse: 0.44813017598758176
+mse: 0.20082065
+pearson 0.8258295999835373
+spearman 0.768457975276585
+ci 0.8133858267716535
+496
+Training on 1000 samples...
+Train epoch: 497 [0/1000 (0%)]	Loss: 0.009440
+Make prediction for 51 samples...
+epoch: 497
+rmse: 0.4592128915273516
+mse: 0.21087648
+pearson 0.8263893001934848
+spearman 0.7743409937552351
+ci 0.8196850393700787
+497
+Training on 1000 samples...
+Train epoch: 498 [0/1000 (0%)]	Loss: 0.008916
+Make prediction for 51 samples...
+epoch: 498
+rmse: 0.436456474612822
+mse: 0.19049425
+pearson 0.8363387209588243
+spearman 0.7860343065187122
+ci 0.8236220472440945
+498
+Training on 1000 samples...
+Train epoch: 499 [0/1000 (0%)]	Loss: 0.007625
+Make prediction for 51 samples...
+epoch: 499
+rmse: 0.4579770824152012
+mse: 0.20974301
+pearson 0.8230067586367704
+spearman 0.7712811725487024
+ci 0.8165354330708662
+499
+Training on 1000 samples...
+Train epoch: 500 [0/1000 (0%)]	Loss: 0.009810
+Make prediction for 51 samples...
+epoch: 500
+rmse: 0.46333065123376366
+mse: 0.21467529
+pearson 0.8183874939523512
+spearman 0.7718694877070157
+ci 0.8141732283464567

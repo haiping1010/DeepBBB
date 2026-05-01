@@ -1,0 +1,22 @@
+
+# Large generated/data files
+BBB_binary_pred_usage_database_ratio/BBB_binary_pred_usage_database/all_output.txt
+DeepBBB_training_code/BBB_binary_pred_large_ratio/Enamine_Hit_Locator_Library_200K_Set_plated_200000cmpds_20250427.sdf
+
+*.sdf
+*.txt
+*.csv
+*.pkl
+*.pt
+*.pth
+*.h5
+*.npy
+*.npz
+*.zip
+*.tar.gz
+data/
+datasets/
+outputs/
+results/
+checkpoints/
+models/
